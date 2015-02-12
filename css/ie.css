@@ -1,0 +1,54 @@
+.onecol {
+width: 4.7%;
+}
+
+.twocol {
+width: 13.2%;
+}
+
+.threecol {
+width: 22.05%;
+}
+
+.fourcol {
+width: 30.6%;
+}
+
+.fivecol {
+width: 39%;
+}
+
+.sixcol {
+width: 48%;
+}
+
+.sevencol {
+width: 56.75%;
+}
+
+.eightcol {
+width: 61.6%;
+}
+
+.ninecol {
+width: 74.05%;
+}
+
+.tencol {
+width: 82%;
+}
+
+.elevencol {
+width: 91.35%;
+}
+
+.lt-ie9 .landing-row #invitation-container { 
+	/* For IE 5.5 - 7*/
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#9FFFFFFF,endColorstr=#9FFFFFFF);
+
+	/* For IE 8*/
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#9FFFFFFF, endColorstr=#9FFFFFFF)";
+}
+
+.lt-ie9 img { max-width:none; }
+.lt-ie9 img.imgStory { max-width:100%; }
