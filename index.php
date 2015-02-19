@@ -21,12 +21,6 @@
  //-----------------------------------------------
 
 
- $version = mssql_query('SELECT RSVP FROM dbo.RSVP');
- $row = mssql_fetch_array($version);
-
- echo $row[0];
-
- /* Close the connection. */
- sqlsrv_close( $conn);
+ mssql_query('exec dbo.pr_test', $conn);
 
  ?>
