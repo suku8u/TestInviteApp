@@ -6,7 +6,7 @@
  $server = "tcp:wbqa55dhmb.database.windows.net";
  $user = "suku@wbqa55dhmb";
  $pwd = "Stoked88!";
- $db = "InviteDB";
+ $db = "testinvapp";
 
  try{
      $conn = new PDO( "sqlsrv:Server= $server ; Database = $db ", $user, $pwd);
@@ -21,6 +21,6 @@
  //-----------------------------------------------
 
 
- mssql_query('select * from dbo.RSVP', $conn);
+ mssql_query('exec dbo.pr_test', $conn);
 
  ?>
