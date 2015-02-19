@@ -21,6 +21,6 @@
  //-----------------------------------------------
 
 
- mssql_query('exec dbo.pr_test', $conn);
+ mssql_query('select * from dbo.RSVP', $conn);
 
  ?>
