@@ -21,7 +21,7 @@
 
 // -------------- execute query ----------------------------------------------------------------------------------------
 $tsql = "SELECT RSVP FROM dbo.RSVP";
-$stmt = sqlsrv_query( $conn, $tsql);
+$stmt = sqlsrv_query($tsql,$conn);
 
         if( $stmt === false)
           {
