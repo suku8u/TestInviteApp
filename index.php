@@ -16,17 +16,17 @@
      die(print_r($e));
  }
  
+ //-----------------------------------------------
+ // Perform operations with connection.
+ //-----------------------------------------------
 
-// -------------------------------------------------------------------------
 
-// -------------- execute query ----------------------------------------------------------------------------------------
-$tsql = "SELECT RSVP FROM dbo.RSVP";
-$stmt = sqlsrv_query($tsql,$conn);
+ $version = mssql_query('SELECT RSVP FROM dbo.RSVP');
+ $row = mssql_fetch_array($version);
 
-        if( $stmt === false)
-          {
-             echo "Error in query preparation/execution.\n";
-             die( print_r( sqlsrv_errors(), true));
-          }
+ echo $row[0];
 
-?>
+ /* Close the connection. */
+ sqlsrv_close( $conn);
+
+ ?>
