@@ -341,7 +341,7 @@ if(isset($_GET['action']))
 }
  
 /*Display registered people.*/
-$sql = "SELECT * FROM RegistrationTbl ORDER BY LastName";
+$sql = "SELECT * FROM RegistrationTbl ORDER BY Name";
 $stmt3 = sqlsrv_query($conn, $sql);
 if($stmt3 === false)
 {
