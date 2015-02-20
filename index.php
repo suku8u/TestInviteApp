@@ -302,11 +302,11 @@
                             <div class="sixcol last">
                             	<div class="inputContainer">
                                     <p># of guest(s) attending</p>
-                                    <input type="text" id="guests" name="Guests-Number" style="width:100px;" />
+                                    <input type="text" id="guests" name="GuestsNumber" style="width:100px;" />
                                 </div><!-- .inputContainer -->
                             	<div class="inputContainer">
                                     <p>Full name of guest(s)</p>
-                                    <textarea id="guest-names" name="Guests-Names"></textarea>
+                                    <textarea id="guest-names" name="GuestsNames"></textarea>
                                 </div><!-- .inputContainer -->
                                     <button type="submit" id="submit" class="btn">SUBMIT</button>
                             </div><!-- .sixcol .last -->    
@@ -334,12 +334,12 @@ if(isset($_GET['action']))
     if($_GET['action'] == 'add')
     {
         /*Insert data.*/
-        $insertSql = "INSERT INTO RSVP (Name, Email, Answer, Guests-Number,Guests-Names,CreatedDate) VALUES (?,?,?,?,?,?)";
+        $insertSql = "INSERT INTO RSVP (Name, Email, Answer, GuestsNumber,GuestsNames,CreatedDate) VALUES (?,?,?,?,?,?)";
         $params = array(&$_POST['Name'], 
                         &$_POST['Email'],
 						&$_POST['Answer'],
-						&$_POST['Guests-Number'],
-						&$_POST['Guests-Names'], 
+						&$_POST['GuestsNumber'],
+						&$_POST['GuestsNames'], 
                         date("Y-m-d"));
         $stmt = sqlsrv_query($conn, $insertSql, $params);
         if($stmt === false)
