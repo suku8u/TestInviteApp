@@ -316,7 +316,7 @@ if(isset($_GET['action']))
     if($_GET['action'] == 'add')
     {
         /*Insert data.*/
-        $insertSql = "INSERT INTO RSVP (Name, Email, RegDate) VALUES (?,?)";
+        $insertSql = "INSERT INTO RSVP (Name, Email, RegDate) VALUES (?,?,?)";
         $params = array(&$_POST['Name'], 
                         &$_POST['email'], 
                         date("Y-m-d"));
