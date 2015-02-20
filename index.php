@@ -316,7 +316,7 @@ if(isset($_GET['action']))
     if($_GET['action'] == 'add')
     {
         /*Insert data.*/
-        $insertSql = "INSERT INTO RSVP (Name, Email, RegDate) VALUES (?,?,?)";
+        $insertSql = "INSERT INTO RSVP (Name, Email, CreatedDate) VALUES (?,?,?)";
         $params = array(&$_POST['Name'], 
                         &$_POST['email'], 
                         date("Y-m-d"));
@@ -357,10 +357,10 @@ if(sqlsrv_has_rows($stmt3))
     print("<td>Registration Date</td></tr>");
     while($row = sqlsrv_fetch_array($stmt3))
     {
-        $regDate = date_format($row['RegDate'], 'Y-m-d');
+        $regDate = date_format($row['CreatedDate'], 'Y-m-d');
         print("<tr><td>".$row['Name']."</td>");
         print("<td>".$row['Email']."</td>");
-        print("<td>".$regDate."</td></tr>");
+        print("<td>".$CreatedDate."</td></tr>");
     }
     print("</table>");
 }
