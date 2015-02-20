@@ -282,7 +282,11 @@
                         </p>
 
 <form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" >
-    Last name <input type="text" name="lastName" id="lastName"/><br />
+	<div class="sixcol">
+    	<div class="inputContainer">
+            <p>Your Name</p>
+            <input type="text" id="name" name="Name" class='validate[required]' />
+    	</div><!-- .inputContainer -->
     First name <input type="text" name="firstName" id="firstName"/><br />
     E-mail address <input type="text" name="emailAddress" id="emailAddress"/><br />
     <input type="submit" name="submit" value="Submit" />
@@ -310,8 +314,8 @@ if(isset($_GET['action']))
     if($_GET['action'] == 'add')
     {
         /*Insert data.*/
-        $insertSql = "INSERT INTO RegistrationTbl (LastName, FirstName, Email, RegDate) VALUES (?,?,?,?)";
-        $params = array(&$_POST['lastName'], 
+        $insertSql = "INSERT INTO RegistrationTbl (Name, FirstName, Email, RegDate) VALUES (?,?,?,?)";
+        $params = array(&$_POST['Name'], 
                         &$_POST['firstName'], 
                         &$_POST['emailAddress'], 
                         date("Y-m-d"));
