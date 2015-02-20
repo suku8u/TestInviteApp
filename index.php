@@ -281,7 +281,7 @@
                            For any question please email: <a href="mailto:youremailhere@emailadd.com">jeanjohnwedding@gmail.com</a>
                         </p>
 
-                        <form id='rsvpForm' method='post' onsubmit='return false'>
+                        <form id='rsvpForm' method='post' action='?action=add' onsubmit='return false'>
                         	<div class="sixcol">
                             	<div class="inputContainer">
                                     <p>Your Name</p>
