@@ -291,6 +291,12 @@
     	<p>Email</p>
         <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />                                    
 	</div><!-- .inputContainer -->
+    <div class="inputContainer">
+        <p>Will you be joining us?</p>
+        <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Yes</p>
+        <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">No, sorry!</p>
+        <p class="rd-msg">Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
+    </div><!-- .inputContainer -->
     <input type="submit" name="submit" value="Submit" />
 </form>
  
@@ -318,7 +324,8 @@ if(isset($_GET['action']))
         /*Insert data.*/
         $insertSql = "INSERT INTO RSVP (Name, Email, CreatedDate) VALUES (?,?,?)";
         $params = array(&$_POST['Name'], 
-                        &$_POST['email'], 
+                        &$_POST['email'],
+						&$_POST['answer'], 
                         date("Y-m-d"));
         $stmt = sqlsrv_query($conn, $insertSql, $params);
         if($stmt === false)
@@ -354,12 +361,14 @@ if(sqlsrv_has_rows($stmt3))
     print("<table border='1px'>");
     print("<tr><td>Name</td>");
     print("<td>E-mail</td>");
+	print("<td>Answer</td>");
     print("<td>Registration Date</td></tr>");
     while($row = sqlsrv_fetch_array($stmt3))
     {
         $regDate = date_format($row['CreatedDate'], 'Y-m-d');
         print("<tr><td>".$row['Name']."</td>");
         print("<td>".$row['Email']."</td>");
+		print("<td>".$row['Answer']."</td>");
         print("<td>".$CreatedDate."</td></tr>");
     }
     print("</table>");
