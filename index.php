@@ -334,10 +334,12 @@ if(isset($_GET['action']))
     if($_GET['action'] == 'add')
     {
         /*Insert data.*/
-        $insertSql = "INSERT INTO RSVP (Name, Email, Answer, CreatedDate) VALUES (?,?,?,?)";
+        $insertSql = "INSERT INTO RSVP (Name, Email, Answer, Guests-Number,Guests-Names,CreatedDate) VALUES (?,?,?,?,?,?)";
         $params = array(&$_POST['Name'], 
                         &$_POST['Email'],
-						&$_POST['Answer'], 
+						&$_POST['Answer'],
+						&$_POST['Guests-Number'],
+						&$_POST['Guests-Names'], 
                         date("Y-m-d"));
         $stmt = sqlsrv_query($conn, $insertSql, $params);
         if($stmt === false)
@@ -352,10 +354,6 @@ if(isset($_GET['action']))
             {
                 die(print_r($errors, true));
             }
-        }
-        else
-        {
-            echo "Registration complete.</br>";
         }
     }
 }
