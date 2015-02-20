@@ -351,14 +351,14 @@ if($stmt3 === false)
 if(sqlsrv_has_rows($stmt3))
 {
     print("<table border='1px'>");
-    print("<tr><td>Last Name</td>");
+    print("<tr><td>Name</td>");
     print("<td>First Name</td>");
     print("<td>E-mail Address</td>");
     print("<td>Registration Date</td></tr>");
     while($row = sqlsrv_fetch_array($stmt3))
     {
         $regDate = date_format($row['RegDate'], 'Y-m-d');
-        print("<tr><td>".$row['LastName']."</td>");
+        print("<tr><td>".$row['Name']."</td>");
         print("<td>".$row['FirstName']."</td>");
         print("<td>".$row['Email']."</td>");
         print("<td>".$regDate."</td></tr>");
