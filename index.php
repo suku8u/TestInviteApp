@@ -330,39 +330,16 @@
 						    die(print_r(sqlsrv_errors(), true));
 						}
 						
-						if(isset($_GET['action']))
-						{
-						    if($_GET['action'] == 'add')
-						    {
-						        /*Insert data.*/
-						        $insertSql = "INSERT INTO RSVP (Name, Email, Answer, Message, Guests-Number, Guests-Names, CreatedDate ) VALUES (?,?,?,?,?,?,?)";
-						        $params = array(&$_POST['Name'], 
-						                        &$_POST['Email'], 
-						                        &$_POST['Answer'], 
-												&$_POST['Messsage'], 
-												&$_POST['Guests-Number'], 
-												&$_POST['Guests-Names'], 
-						                        date("Y-m-d"));
-						        $stmt = sqlsrv_query($conn, $insertSql, $params);
-						        if($stmt === false)
-						        {
-						            /*Handle the case of a duplicte e-mail address.*/
-						            $errors = sqlsrv_errors();
-						            if($errors[0]['code'] == 2601)
-						            {
-						                echo "The e-mail address you entered has already been used.<br />";
-						            }/*Die if other errors occurred.*/
-						            else
-						            {
-						                die(print_r($errors, true));
-						            }
-						        }
-						        else
-						        {
-						            echo "Registration complete.</br>";
-						        }
-						    }
-						}
+						$sql = "INSERT INTO items (name, email, answer, message, guests-number, guests-name, date) VALUES (?, ?, ?, ?, ?, ?, ?)";
+							$stmt = $conn->prepare($sql);
+							$stmt->bindValue(1, $name);
+							$stmt->bindValue(2, $email);
+							$stmt->bindValue(3, $answer);
+							$stmt->bindValue(1, $message);
+							$stmt->bindValue(2, $guests-number);
+							$stmt->bindValue(3, $guests-name);
+							$stmt->bindValue(4, $date);
+							$stmt->execute();
 						?>
 						
 						
