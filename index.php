@@ -297,7 +297,18 @@
         <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">No, sorry!</p>
         <p class="rd-msg">Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
     </div><!-- .inputContainer -->
-    <input type="submit" name="submit" value="Submit" />
+    <div class="sixcol last">
+    	<div class="inputContainer">
+            <p># of guest(s) attending</p>
+            <input type="text" id="guests" name="Guests-Number" style="width:100px;" />
+        </div><!-- .inputContainer -->
+    	<div class="inputContainer">
+            <p>Full name of guest(s)</p>
+            <textarea id="guest-names" name="Guests-Names"></textarea>
+        </div><!-- .inputContainer -->
+            <input type="submit" name="submit" value="Submit" />
+    </div><!-- .sixcol .last -->
+    
 </form>
  
 <?php
