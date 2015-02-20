@@ -282,33 +282,34 @@
                         </p>
 
 <form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" >
-	<div class="sixcol">
-    	<div class="inputContainer">
-            <p>Your Name</p>
-            <input type="text" id="name" name="Name" class='validate[required]' />
-    	</div><!-- .inputContainer -->
-	<div class="inputContainer">
-    	<p>Email</p>
-        <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />                                    
-	</div><!-- .inputContainer -->
-    <div class="inputContainer">
-        <p>Will you be joining us?</p>
-        <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Yes</p>
-        <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">No, sorry!</p>
-        <p class="rd-msg">Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
-    </div><!-- .inputContainer -->
-    <div class="sixcol last">
-    	<div class="inputContainer">
-            <p># of guest(s) attending</p>
-            <input type="text" id="guests" name="Guests-Number" style="width:100px;" />
-        </div><!-- .inputContainer -->
-    	<div class="inputContainer">
-            <p>Full name of guest(s)</p>
-            <textarea id="guest-names" name="Guests-Names"></textarea>
-        </div><!-- .inputContainer -->
-            <input type="submit" name="submit" value="Submit" />
-    </div><!-- .sixcol .last -->
-    
+                        	<div class="sixcol">
+                            	<div class="inputContainer">
+                                    <p>Your Name</p>
+                                    <input type="text" id="name" name="Name" class='validate[required]' />
+                            	</div><!-- .inputContainer -->
+                            	<div class="inputContainer">
+                                	<p>Email</p>
+                                    <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />                                    
+                            	</div><!-- .inputContainer -->
+                                <div class="inputContainer">
+                                    <p>Will you be joining us?</p>
+                                    <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Yes</p>
+                                    <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">No, sorry!</p>
+                                    <p class="rd-msg">Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
+                                </div><!-- .inputContainer -->
+                           	</div><!-- .sixcol -->
+                            
+                            <div class="sixcol last">
+                            	<div class="inputContainer">
+                                    <p># of guest(s) attending</p>
+                                    <input type="text" id="guests" name="Guests-Number" style="width:100px;" />
+                                </div><!-- .inputContainer -->
+                            	<div class="inputContainer">
+                                    <p>Full name of guest(s)</p>
+                                    <textarea id="guest-names" name="Guests-Names"></textarea>
+                                </div><!-- .inputContainer -->
+                                    <button type="submit" id="submit" class="btn">SUBMIT</button>
+                            </div><!-- .sixcol .last -->    
 </form>
  
 <?php
