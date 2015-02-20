@@ -281,7 +281,7 @@
                            For any question please email: <a href="mailto:youremailhere@emailadd.com">jeanjohnwedding@gmail.com</a>
                         </p>
 
-<form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" onsubmit="return false"" >
+<form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" onsubmit="return false" >
     Last name <input type="text" name="lastName" id="lastName"/><br />
     First name <input type="text" name="firstName" id="firstName"/><br />
     E-mail address <input type="text" name="emailAddress" id="emailAddress"/><br />
