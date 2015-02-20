@@ -164,7 +164,7 @@
                             <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery1]"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]"><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                         </ul>
-                        <p style="text-align:left; font-size:13px; line-height:1.35em;">All rights reserved; please do not copy and distribute.</p>
+                   
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
             </div><!-- .anchorContainer .menu2 -->
@@ -209,9 +209,9 @@
                         <!--<div class="accParaContainer">	 -->
                             <p><b>Crystal Mountain Resort</b> is offering us a special rate for all our registered guests. Rooms are available at a discounted rate of (max 6 persons per family room). There are also a variety of beautiful cabins nearby, some link's are below. Check back here for Crystal Mountain Lodging Discount Code -coming soon.</p>
 							<ul class="tips">
-							<li><p>http://crystalmountainresort.com/summer/summer-planning/lodging-partners-summer/</p></li>
-							<li><p>http://crystalmountainresort.com/plan-your-trip/planning/vacation-rentals/</p></li>
-							<li><p>http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</p></li>
+							<li><p><a href="url">http://crystalmountainresort.com/summer/summer-planning/lodging-partners-summer/</a></p></li>
+							<li><p><a href="url">http://crystalmountainresort.com/plan-your-trip/planning/vacation-rentals/</a></p></li>
+							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							</ul>
 							<p><a href="#"Click here></a> To book it online or make a phone reservation by calling 1-360-663-2265, be sure to mention the name <b>"Mary-Sukumar Wedding"</b> to get our special rate.</p>
 						</div><!-- .accParaContainer -->
@@ -223,11 +223,11 @@
                             <li><p>Even though it's the summer time on Sept. 5th, remember that it's a mountain, so pack some layers!</p></li>
 							<li><p>Crystal Mountain Resort is about 60 miles from SeaTac Airport. Email us about carpooling options and we'll connect you with friends. We are also planning to arrange several airport shuttles so please let us know if you're interested.</p></li>
 							<li><p>Other optional weekend activities will include a gentile hike on Mt. Rainier on Sunday and farewell brunch on Monday morning.</p></li>
-                            <li><p>http://www.mtrainierguestservices.com/activities-and-events/summer-activities</p></li>
-							<li><p>http://www.phrecklefacephotographyblog.com/summer-lovin-bucket-list-for-the-pacific-northwest-fun-things-to-do-with-kids-during-the-summer</p></li>
-							<li><p>http://travel.nationalgeographic.com/travel/city-guides/free-seattle-traveler</p></li>
-							<li><p>http://redtri.com/seattle/75-things-to-do-with-the-family-in-seattle-this-summer/</p></li>
-							<li><p>http://www.thriftynorthwestmom.com/frugal-summer-fun-in-the-northwest-2013/</p></li>
+                            <li><p><a href="url">http://www.mtrainierguestservices.com/activities-and-events/summer-activities</a></p></li>
+							<li><p><a href="url">http://www.phrecklefacephotographyblog.com/summer-lovin-bucket-list-for-the-pacific-northwest-fun-things-to-do-with-kids-during-the-summer</a></p></li>
+							<li><p><a href="url">http://travel.nationalgeographic.com/travel/city-guides/free-seattle-traveler</a></p></li>
+							<li><p><a href="url">http://redtri.com/seattle/75-things-to-do-with-the-family-in-seattle-this-summer/</a></p></li>
+							<li><p><a href="url">http://www.thriftynorthwestmom.com/frugal-summer-fun-in-the-northwest-2013/</a></p></li>
                         </ul>
                     </div><!-- .sixcol .last -->
                 </div><!-- .row -->
