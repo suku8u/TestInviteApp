@@ -348,31 +348,6 @@ if(isset($_GET['action']))
     }
 }
  
-/*Display registered people.*/
-$sql = "SELECT * FROM RSVP ORDER BY Name";
-$stmt3 = sqlsrv_query($conn, $sql);
-if($stmt3 === false)
-{
-    die(print_r(sqlsrv_errors(), true));
-}
- 
-if(sqlsrv_has_rows($stmt3))
-{
-    print("<table border='1px'>");
-    print("<tr><td>Name</td>");
-    print("<td>E-mail</td>");
-	print("<td>Answer</td>");
-    print("<td>Registration Date</td></tr>");
-    while($row = sqlsrv_fetch_array($stmt3))
-    {
-        $regDate = date_format($row['CreatedDate'], 'Y-m-d');
-        print("<tr><td>".$row['Name']."</td>");
-        print("<td>".$row['Email']."</td>");
-		print("<td>".$row['Answer']."</td>");
-        print("<td>".$CreatedDate."</td></tr>");
-    }
-    print("</table>");
-}
 ?>
 
                         
