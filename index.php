@@ -107,9 +107,9 @@
                     </div><!-- .twelvecol -->
                     <div class="fourcol story">
                         <h2 style="margin-top:30px;">Mary</h2>
-                        <p><span class="dropcap">S</span>ukumar xxxxxx>
-						<p>xxxxxxxx</p>
-                        <p>Please join me and Sukumar in our celebration and share our joyful day in a blessed union. Reception dinner and dance will follow after the ceremony.</p>
+                        <p><span class="dropcap">T</span>he
+						<p>first time I saw Sukumar he was carrying an old lamp down a wet sidewalk during his move. We started chatting right away. He had a warm, calm, & friendly spirit. He felt like a ray of sunshine in a very rainy city. In fact, that afternoon I went home and told my roomies - Lisa, Siobhan, & Seungyoo, "You need to meet Sukumar, he is like a ray of sunshine!" Later that night Maria, Mahesh, Sukumar and I all went out dancing at the Crocodile. That's how it all started. We quickly became friends and enjoyed documentary nights, hiking, social gatherings with our neighbors, playing squash, Dragon Boat Racing (Sake, Sake, Sake!), and dashing across the country together. </p>
+                        <p>We've found ourselves in a wide variety of interesting and unusual situations since that time. Like next to a broken car elevator on a cold night outside a jazz club in Harlem, staring at the stars from a campground in Montana, swimming in a river full of Salmon in British Columbia, staying up all night, outside in the rain, with the Coalition on Homelessness for the One Night Count in Seattle, and going for a bike ride and accidentally finding a Nude beach in Toronto -who knew - those crazy Canadians.</p>
                         <p style="font-style:normal;"></p>
                     </div><!-- .fourcol -->
                     <div class="fourcol">
