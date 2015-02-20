@@ -60,8 +60,7 @@
                 	<div id="invitation" class="editable">
                     	<h1 class="mobile-hide"><img src="images/motif.png" class="motif" /></h1>
                         <h1 class="mobile-hide">You are invited</h1>
-                        <h1 class="alt mobile-hide">to our wedding</h1>
-                        <h1 class="mobile-hide">on these days</h1>
+                        <h1 class="alt mobile-hide">to our weddings</h1>
 						<h1 class="alt mobile-hide">4th March 2015</h1>
                         <h1 class="alt mobile-hide">5th Sept 2015</h1>
                         <h1 class="mobile-hide">please join us!</h1>
@@ -88,7 +87,6 @@
                             	<span class="name-one">Mary</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">Sukumar</span>
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
-                            <li><a href="#menu5">Gifts</a></li>
                             <li><a href="#menu6">RSVP</a></li>
                         </ul>
                     </nav>
@@ -177,16 +175,16 @@
         	<div class="anchorContainer menu3 editable" id="content-three">
                 <div class="row">
                     <div class="fivecol">
-                        <h2>Ceremony</h2>
+                        <h2>Ceremonies</h2>
                         <p>Our Indian wedding celebration will be held on <br/> 
 							<b>Wednesday, March 4, 2015</b> at <b>9:00 a.m.</b> <br/>
-							at Parsons Court Hotel, Dindigul, Tamil Nadu, India. Address: <br/> 
+							at Parsons Court Hotel, Dindigul, Tamil Nadu, India.<br/> 
                             <b>85 Mengals Road, Nagal Nagar, Dindigul - 624003</b>
                         </p>
 						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a></p>
-                        <p>Our american wedding celebration will be held on <br/> 
+                        <p>Our American wedding celebration will be held on <br/> 
 							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
-							at the Crystal Mountain Resort in Enumclaw, WA. Address: <br/> 
+							at the Crystal Mountain Resort in Enumclaw, WA.<br/> 
                             <b>33914 Crystal Mountain Blvd. Enumclaw, WA 98022</b>
                         </p>
 						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>
@@ -194,37 +192,12 @@
                     <div class="twocol"><p>&nbsp;</p></div><!-- .twocol (this is empty placeholder column) -->
                     <div class="fivecol last">
                         <h2>Crystal Mountain Resort Reception</h2>
-                        <p>A reception, dinner and dance will immediately follow in the
+                        <p>A reception, dinner and dancing will immediately follow in the
                         	Chinook Room at Crystal Mountain Resort
+							http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort
                         </p>
                     </div><!-- .fivecol .last -->
-                    <div class="twelvecol">
-                    	<div class="weddingParty">
-                        	<h2>Bridesmaids / Groomsmen</h2>
-                            <ul class="gallery party clearfix">
-                                <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery2]" title="You can add caption to pictures. You can add caption to pictures... You can add caption to pictures!"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery2]" title="Feel free to use portrait or landscape photo layout."><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery2]" title="Press play button to start slideshow or use left/right keyboard arrows to navigate between photos."><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery2]" title="Click expand button on top right corner to view larger image."><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery2]"><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery2]"><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery2]"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery2]"><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery2]"><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery2]"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery2]"><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery2]"><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery2]"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery2]"><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery2]"><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                                <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery2]"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                        	</ul>
-                            <img src="images/motif.png" style="margin-top:10px;" />
-                        </div><!-- .weddingParty -->
-                    </div><!-- .twelvecol -->
-                </div><!-- .row -->
-            </div><!-- .anchorContainer .menu3 -->
-        </div><!-- #menu3 -->
+                   
             
         <div id="menu4">
          	<div class="anchorContainer menu4 editable" id="content-four">
@@ -232,48 +205,32 @@
                     <div class="sixcol acc">
                     	<h2>Accommodations</h2>
                         <div class="accParaContainer">	
-                            <p><b>Crystal Mountain Resort</b> is offering us a special rate for all our registered guests. Rooms are available at a discounted rate of $99/night. Suites with adjoining rooms and a foyer are also available for $129 - $219 and can fit 5 - 8 people.</p>
+                            <p><b>Crystal Mountain Resort</b> is offering us a special rate for all our registered guests. Rooms are available at a discounted rate of (max 6 persons per family room). There are also a variety of beautiful cabins nearby, some link's are below. Check back here for Crystal Mountain Lodging Discount Code -coming soon.
+							http://crystalmountainresort.com/summer/summer-planning/lodging-partners-summer/
+							http://crystalmountainresort.com/plan-your-trip/planning/vacation-rentals/
+							http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater
+							</p>
 							<p><a href="#"Click here></a> to book it online or make a phone reservation by calling 1-360-663-2265, be sure to mention the name <b>"Mary-Sukumar Wedding"</b> to get our special rate.</p>
 						</div><!-- .accParaContainer -->
                     </div><!-- .sixcol .acc -->
                     <div class="sixcol last">
                     <h2>Travel Tips</h2>
                         <ul class="tips">
-                        	<li><p>Use this space to provide extra information on your guests' accommodations and it would be nice to throw in other options apart from hotel suites.</p></li>
-                            <li><p>Maybe mention about the weather where you'll be hosting your wedding celebration? It'll be nice for them to know what to wear and bring to your wedding location.</p></li>
-                            <li><p>Make sure to include a link to <a href="#">map and driving direction</a> just in case. Don't forget to add information on parking too.</p></li>
-                            <li><p>Add a contact information so they can send you their inquiries about travel and accommodations.</p></li>
-                            <li><p>Other tips or tidbits...</p></li>
+                        	<li><p>Even though it's winter time on March 4th, remember that it's India, so pack light!</p></li>
+                            <li><p>Even though it's the summer time on Sept. 5th, remember that it's a mountain, so pack some layers!</p></li>
+							<li><p>Crystal Mountain Resort is about 60 miles from SeaTac Airport. Email us about carpooling options and we'll connect you with friends. We are also planning to arrange several airport shuttles so please let us know if you're interested.</p></li>
+							<li><p>Other optional weekend activities will include a gentile hike on Mt. Rainier on Sunday and farewell brunch on Monday morning.</p></li>
+                            <li><p>http://www.mtrainierguestservices.com/activities-and-events/summer-activities</p></li>
+							<li><p>http://www.phrecklefacephotographyblog.com/summer-lovin-bucket-list-for-the-pacific-northwest-fun-things-to-do-with-kids-during-the-summer</p></li>
+							<li><p>http://travel.nationalgeographic.com/travel/city-guides/free-seattle-traveler</p></li>
+							<li><p>http://redtri.com/seattle/75-things-to-do-with-the-family-in-seattle-this-summer/</p></li>
+							<li><p>http://www.thriftynorthwestmom.com/frugal-summer-fun-in-the-northwest-2013/</p></li>
                         </ul>
                     </div><!-- .sixcol .last -->
                 </div><!-- .row -->
             </div><!-- .anchorContainer .menu4 -->
         </div><!-- #menu4 -->
         
-        <div id="menu5">
-         	<div class="anchorContainer menu5 editable" id="content-five">
-                <div class="row">
-                    <div class="fivecol">
-                    	<h2>Gifts</h2>
-                        	<p>Their presence at your wedding is nice and all... But feel free to use this space to provide information to your guests on how to they should give you gifts or money as your wedding presents.</p>				
-                            <p>For their convenience, use the column on the right side to list out places/stores that you have gift registered.</p>
-						
-                    </div><!-- .fivecol .acc -->
-                    <div class="sevencol gifts last">
-                        <div class="giftsParaContainer">	
-                            <ul class="gft">
-                                <li><p>You may give us <b>$$$</b> for honeymoon.</p></li>
-                                <li><p>We are registered at <a href="#">Bed Bath & Beyond</a>.</p></li>
-                                <li><p>We are registered at <a href="#">Ikea</a>.</p></li>
-                                <li><p>We are registered at <a href="#">GiftRegistry360</a>.</p></li>
-                                <li><p>Other gift ideas...</p></li>
-                                
-                            </ul>
-                        </div><!-- .giftsParaContainer -->
-                    </div><!-- .sevencol .last -->
-                </div><!-- .row -->
-            </div><!-- .anchorContainer .menu5 -->
-        </div><!-- #menu5 -->
         
         <div id="menu6">
          	<div class="anchorContainer menu6 editable" id="content-six">
@@ -281,7 +238,7 @@
                 	<div class="twelvecol rsvp">
                     	<div class="rsvpParaContainer">
                     	<h2>RSVP</h2>
-                        <p>Please RSVP before June 1st 2015.<br/>
+                        <p>Please RSVP before May 1st 2015.<br/>
                            For any question please email: <a href="mailto:youremailhere@emailadd.com">maryandsukumar@gmail.com</a>
                         </p>
 
@@ -297,8 +254,8 @@
                             	</div><!-- .inputContainer -->
                                 <div class="inputContainer">
                                     <p>Will you be joining us?</p>
-                                    <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Yes</p>
-                                    <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">No, sorry!</p>
+                                    <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Will attend</p>
+                                    <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">Cannot attend</p>
                                     <p class="rd-msg">Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
                                 </div><!-- .inputContainer -->
                            	</div><!-- .sixcol -->
@@ -378,8 +335,7 @@ if(isset($_GET['action']))
     	<div class="container">
         	<div class="row">
                 <div class="twelvecol">
-                <!-- We kindly ask you NOT to remove OnePageTheme credit link. Thank you for the love! -->
-                <p>&#169; <?php echo date("Y") ?> OnePageTheme. Site design by <a href="http://onepagetheme.com" target="_blank">OnePageTheme</a>.</p>
+                <p>&#169; <?php echo date("Y") ?></p>
                 </div>
             </div>
     	</div>
