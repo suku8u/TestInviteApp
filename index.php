@@ -287,8 +287,10 @@
             <p>Your Name</p>
             <input type="text" id="name" name="Name" class='validate[required]' />
     	</div><!-- .inputContainer -->
-    First name <input type="text" name="firstName" id="firstName"/><br />
-    E-mail address <input type="text" name="emailAddress" id="emailAddress"/><br />
+	<div class="inputContainer">
+    	<p>Email</p>
+        <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />                                    
+	</div><!-- .inputContainer -->
     <input type="submit" name="submit" value="Submit" />
 </form>
  
@@ -314,10 +316,9 @@ if(isset($_GET['action']))
     if($_GET['action'] == 'add')
     {
         /*Insert data.*/
-        $insertSql = "INSERT INTO RegistrationTbl (Name, FirstName, Email, RegDate) VALUES (?,?,?,?)";
+        $insertSql = "INSERT INTO RSVP (Name, Email, RegDate) VALUES (?,?,?,?)";
         $params = array(&$_POST['Name'], 
-                        &$_POST['firstName'], 
-                        &$_POST['emailAddress'], 
+                        &$_POST['email'], 
                         date("Y-m-d"));
         $stmt = sqlsrv_query($conn, $insertSql, $params);
         if($stmt === false)
@@ -341,7 +342,7 @@ if(isset($_GET['action']))
 }
  
 /*Display registered people.*/
-$sql = "SELECT * FROM RegistrationTbl ORDER BY Name";
+$sql = "SELECT * FROM RSVP ORDER BY Name";
 $stmt3 = sqlsrv_query($conn, $sql);
 if($stmt3 === false)
 {
@@ -352,14 +353,12 @@ if(sqlsrv_has_rows($stmt3))
 {
     print("<table border='1px'>");
     print("<tr><td>Name</td>");
-    print("<td>First Name</td>");
-    print("<td>E-mail Address</td>");
+    print("<td>E-mail</td>");
     print("<td>Registration Date</td></tr>");
     while($row = sqlsrv_fetch_array($stmt3))
     {
         $regDate = date_format($row['RegDate'], 'Y-m-d');
         print("<tr><td>".$row['Name']."</td>");
-        print("<td>".$row['FirstName']."</td>");
         print("<td>".$row['Email']."</td>");
         print("<td>".$regDate."</td></tr>");
     }
