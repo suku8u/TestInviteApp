@@ -208,9 +208,9 @@
                     	<h2>Accommodations</h2>
                         <div class="accParaContainer">	
                             <p><b>Crystal Mountain Resort</b> is offering us a special rate for all our registered guests. Rooms are available at a discounted rate of (max 6 persons per family room). There are also a variety of beautiful cabins nearby, some link's are below. Check back here for Crystal Mountain Lodging Discount Code -coming soon.
-							<li><p>http://crystalmountainresort.com/summer/summer-planning/lodging-partners-summer/</p></li>
-							<li><p>http://crystalmountainresort.com/plan-your-trip/planning/vacation-rentals/</p></li>
-							<li><p>http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</p></li>
+							<li>http://crystalmountainresort.com/summer/summer-planning/lodging-partners-summer/</li>
+							<li>http://crystalmountainresort.com/plan-your-trip/planning/vacation-rentals/</li>
+							<li>http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</li>
 							</p>
 							<p><a href="#"Click here></a> to book it online or make a phone reservation by calling 1-360-663-2265, be sure to mention the name <b>"Mary-Sukumar Wedding"</b> to get our special rate.</p>
 						</div><!-- .accParaContainer -->
