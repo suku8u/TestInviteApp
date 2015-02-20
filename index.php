@@ -282,7 +282,7 @@
                         </p>
 
                         <!--><form id='rsvpForm' method='post' action='?action=add' onsubmit='return false'> -->
-						<form method="post" action="?action=add" enctype="multipart/form-data">
+						<form id='rsvpForm' method='post' onsubmit='return false'>
                         	<div class="sixcol">
                             	<div class="inputContainer">
                                     <p>Your Name</p>
@@ -330,15 +330,14 @@
 						    die(print_r(sqlsrv_errors(), true));
 						}
 						
-						$sql = "INSERT INTO items (name, email, answer, message, guests-number, guests-name, date) VALUES (?, ?, ?, ?, ?, ?, ?)";
+						$sql = "INSERT INTO items (name, email, answer, message, guests-number, guests-name) VALUES (?, ?, ?, ?, ?, ?)";
 							$stmt = $conn->prepare($sql);
 							$stmt->bindValue(1, $name);
 							$stmt->bindValue(2, $email);
 							$stmt->bindValue(3, $answer);
-							$stmt->bindValue(1, $message);
-							$stmt->bindValue(2, $guests-number);
-							$stmt->bindValue(3, $guests-name);
-							$stmt->bindValue(4, $date);
+							$stmt->bindValue(4, $message);
+							$stmt->bindValue(5, $guests-number);
+							$stmt->bindValue(6, $guests-name);
 							$stmt->execute();
 						?>
 						
