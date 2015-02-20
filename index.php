@@ -197,6 +197,8 @@
 							http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort
                         </p>
                     </div><!-- .fivecol .last -->
+			            </div><!-- .anchorContainer .menu4 -->
+			        </div><!-- #menu4 -->
                    
             
         <div id="menu4">
