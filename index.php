@@ -7,7 +7,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-    <title>Jean &amp; John Wedding RSVP Theme</title>
+    <title>Mary &amp; Sukumar Wedding RSVP Theme</title>
     <!-- Copyright Theme Design by OnePageTheme: http://onepagetheme.com -->
 	<!-- Insert META DATA here: description, keywords, author, etc. -->
         <meta name="description" content="Insert your description here" />
@@ -61,8 +61,9 @@
                     	<h1 class="mobile-hide"><img src="images/motif.png" class="motif" /></h1>
                         <h1 class="mobile-hide">You are invited</h1>
                         <h1 class="alt mobile-hide">to our wedding</h1>
-                        <h1 class="mobile-hide">on this day</h1>
-                        <h1 class="alt mobile-hide">25th Aug 2015</h1>
+                        <h1 class="mobile-hide">on these days</h1>
+						<h1 class="alt mobile-hide">4th March 2015</h1>
+                        <h1 class="alt mobile-hide">5th Sept 2015</h1>
                         <h1 class="mobile-hide">please join us!</h1>
                         <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="javascript:void(0)" id="rsvp">rsvp now</a></h1>
                     </div><!-- #invitation -->
@@ -84,7 +85,7 @@
                             <li><a href="#menu2">Photos</a></li>
                             <li><a href="#menu3">The Wedding</a></li>
                             <div id="names-container">
-                            	<span class="name-one">Jean</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">John</span>
+                            	<span class="name-one">Mary</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">Sukumar</span>
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
                             <li><a href="#menu5">Gifts</a></li>
@@ -102,26 +103,25 @@
                 <div class="row">
                 	<div class="twelvecol">
                     	<blockquote>
-                        <p>"We met at the local farmer's market on a lovely Saturday afternoon and the rest was history."</p>
+                        <p>"We met on a misty Sunday afternoon in Seattle. Can you imagine a stranger offering to help during a move?"</p>
                         <img src="images/motif.png" />
                         </blockquote>
                     </div><!-- .twelvecol -->
                     <div class="fourcol story">
-                        <h2 style="margin-top:30px;">Jean</h2>
-                        <p><span class="dropcap">J</span>ohn came into my life at the most unexpected moment. We met at the local farmer's market on a lovely Saturday afternoon and the rest was history. I almost walked by him selling his goat cheese if he didn't say hi to me and offered his cheese sample. It didn't take much for him to charm his way into my heart, and after a cheesy joke or two he asked me out!</p>
-						<p>After months of dating this amazing funny man, I knew he's the one. He caught me off guard when he popped the question at the strangest of all places (a goat ranch!) while doing the most unromantic thing (milking a goat!) and I said yes to my cheesy man :)</p>
-                        <p>Please join me and John in our celebration and share our joyful day in a blessed union. Reception dinner and dance will follow after the ceremony.</p>
-                        <p style="font-style:normal;"><b>Note:</b> Story is fiction.</p>
+                        <h2 style="margin-top:30px;">Mary</h2>
+                        <p><span class="dropcap">S</span>ukumar xxxxxx>
+						<p>xxxxxxxx</p>
+                        <p>Please join me and Sukumar in our celebration and share our joyful day in a blessed union. Reception dinner and dance will follow after the ceremony.</p>
+                        <p style="font-style:normal;"></p>
                     </div><!-- .fourcol -->
                     <div class="fourcol">
                         <div class="imgStoryContainer"><img src="images/photos/story-photo.jpg" class="imgStory" /></div>
                     </div><!-- .fourcol -->
                     <div class="fourcol story last">
-                        <h2 style="margin-top:30px;">John</h2>
-                        <p><span class="dropcap">A</span>t first when I saw Jean, I thought she was way out of my league. No pretty woman like her would ever fall for a simple man who sells (and stinks of!) goat cheese for a living. But she blew my mind with her cheese knowledge and a "cheesy humor" to match, so I asked her out!</p>
-						<p>We went on many dates and with each passing moment I fall helplessly (head over hells) in love with this beautiful and talented woman. She even love my crazy unpredictable antics! So after short months of dating I decided to pop the question. Just ask me in person, I'll tell you how I (really) did it!</p>
-						<p>We hope you can join us in our wedding celebration and share our blessed union. Plus there'll be a dance party where you shall witness our first dance ...and my two left feet.</p>
-                        <p style="font-style:normal;"><b>Note:</b> Story is fiction.</p>
+                        <h2 style="margin-top:30px;">Sukumar</h2>
+                        <p><span class="dropcap">O</span>XXXX</p>
+						<p>XXXXXX</p>
+                        <p style="font-style:normal;"></p>
                     </div><!-- .fourcol .last -->
                 </div><!-- .row -->
             </div><!-- .anchorContainer .menu1 -->
@@ -166,7 +166,7 @@
                             <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery1]"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]"><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                         </ul>
-                        <p style="text-align:left; font-size:13px; line-height:1.35em;">*Photos courtesy of Kendra and Kevin W. for OnePageTheme demo. All rights reserved; please do not copy and distribute.</p>
+                        <p style="text-align:left; font-size:13px; line-height:1.35em;">All rights reserved; please do not copy and distribute.</p>
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
             </div><!-- .anchorContainer .menu2 -->
@@ -178,21 +178,25 @@
                 <div class="row">
                     <div class="fivecol">
                         <h2>Ceremony</h2>
-                        <p>Our lovely wedding celebration will be held on <br/> 
-							<b>Sunday, Aug 25, 2013</b> at <b>5:00 p.m.</b> <br/>
-							at the beautiful Oceana Beach in San Diego. The address is: <br/> 
-                            <b>1234 Oceana Beach Front, San Diego CA 92008</b>
+                        <p>Our Indian wedding celebration will be held on <br/> 
+							<b>Wednesday, March 4, 2015</b> at <b>9:00 a.m.</b> <br/>
+							at Parsons Court Hotel, Dindigul, Tamil Nadu, India. Address: <br/> 
+                            <b>85 Mengals Road, Nagal Nagar, Dindigul - 624003</b>
                         </p>
-						<p><a href="https://maps.google.com/maps?ie=UTF8&cid=2206743020966521621&q=Tamarack+Surf+Beach&iwloc=A&gl=US&hl=en-US" target="_blank" class="map">Google Maps</a></p>
+						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a></p>
+                        <p>Our american wedding celebration will be held on <br/> 
+							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
+							at the Crystal Mountain Resort in Enumclaw, WA. Address: <br/> 
+                            <b>33914 Crystal Mountain Blvd. Enumclaw, WA 98022</b>
+                        </p>
+						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>
                     </div><!-- .fivecol -->
                     <div class="twocol"><p>&nbsp;</p></div><!-- .twocol (this is empty placeholder column) -->
                     <div class="fivecol last">
-                        <h2>Reception</h2>
-                        <p>A reception dinner and dance party will immediately follow at
-                        	Oceana Courtyard located in Oceana Village Drive, San Diego.
-							The address is 1234 Oceana Village Dr., San Diego CA 92008. 
+                        <h2>Crystal Mountain Resort Reception</h2>
+                        <p>A reception, dinner and dance will immediately follow in the
+                        	Chinook Room at Crystal Mountain Resort
                         </p>
-                        <p>Hope to see you there after the ceremony!</p>
                     </div><!-- .fivecol .last -->
                     <div class="twelvecol">
                     	<div class="weddingParty">
@@ -228,8 +232,8 @@
                     <div class="sixcol acc">
                     	<h2>Accommodations</h2>
                         <div class="accParaContainer">	
-                            <p><b>Hyatt Regency Hotel San Diego</b> is offering us a special rate for all our registered guests. Rooms are available at a discounted rate of $99/night. Suites with adjoining rooms and a foyer are also available for $129 - $219 and can fit 5 - 8 people.</p>
-							<p><a href="#"Click here></a> to book it online or make a phone reservation by calling 1-800-222-5566, be sure to mention the name <b>"Simons-Smiths Wedding"</b> to get our special rate. The hotel address is 56789 Hyatt Regency Hotel, San Diego CA 92008.</p>
+                            <p><b>Crystal Mountain Resort</b> is offering us a special rate for all our registered guests. Rooms are available at a discounted rate of $99/night. Suites with adjoining rooms and a foyer are also available for $129 - $219 and can fit 5 - 8 people.</p>
+							<p><a href="#"Click here></a> to book it online or make a phone reservation by calling 1-360-663-2265, be sure to mention the name <b>"Mary-Sukumar Wedding"</b> to get our special rate.</p>
 						</div><!-- .accParaContainer -->
                     </div><!-- .sixcol .acc -->
                     <div class="sixcol last">
@@ -277,8 +281,8 @@
                 	<div class="twelvecol rsvp">
                     	<div class="rsvpParaContainer">
                     	<h2>RSVP</h2>
-                        <p>Please RSVP before Dec 31st 2012.<br/>
-                           For any question please email: <a href="mailto:youremailhere@emailadd.com">jeanjohnwedding@gmail.com</a>
+                        <p>Please RSVP before June 1st 2015.<br/>
+                           For any question please email: <a href="mailto:youremailhere@emailadd.com">maryandsukumar@gmail.com</a>
                         </p>
 
 <form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" >
