@@ -53,7 +53,7 @@
 <!-- Prompt IE 6 users to install Chrome Frame -->
 <!--[if lt IE 7]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p><![endif]-->
 
-	<!--section id="top"-->
+	<section id="top">
     	<div class="landing-container">
         	<div class="landing-row">
                 <div id="invitation-container" class="mobile-hide">
@@ -70,7 +70,7 @@
                 <img src="images/photos/IMG_0722.jpg" class="editable" id="landing-photo" width="1280" height="900"/>
             </div><!-- .landing-row -->
         </div><!-- .landing-container -->
-		<!--/section-->
+	</section>
     <div class="clear"></div>
 
     <header>
