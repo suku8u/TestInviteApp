@@ -118,8 +118,8 @@
                     <div class="fourcol story last">
                         <h2 style="margin-top:30px;">Sukumar</h2>
                         <p><span class="dropcap">I </span>knew I am meeting someone special when I met Mary. She was bubbly, helpful, kind & accomadating. I defenitely had butterflies in my stomach the very first day. But just thinking about what future holds and the thougts of bringing it all together just daunted me. It didnt stop me from sending a text message 2 days after I met her. It was just a "Hello", I never got a response to that text message to this day. Later I learnt Mary hated phones and texting.</p>
-						<p>It took me a while to figure out what and where  </p>
-						<p>Mary is a giver. She has a beautiful mind and I love the way it works. When I am with her I can absolutely tell how her thoughts complements/challenges mine and how well we work together as a team. I know this is so precious and I feel blessed to have found someone I am so comfortable with. Cant wait to make memories with my best friend forever...</p>
+						<p>I tried hard initially but couldn't figure out anything, then I stopped and became friends. More than two years of wonderful adventures like eagle watching, paddling, snorkeling, traveling, playing, running & hiking I felt confident to ask her out again. I knew her so well by then that I asked her out on a Morning Date to a Tour of King County Land Fill Facility :). I think I scored ! It's been great journey of understaning love and inevitable growth the love demands. I feel so blessed to have everyone I had along the journey to find someone so wonderful</p>
+						<p>Mary is a giver. She has a beautiful mind and I love the way it works. When I am with her I can absolutely tell how her thoughts complements/challenges mine and how well we work together as a team. I know this is so precious and I feel stoked to have found someone I am so comfortable with. Cant wait to make lasting memories with my best friend...</p>
                         <p style="font-style:normal;"></p>
                     </div><!-- .fourcol .last -->
                 </div><!-- .row -->
