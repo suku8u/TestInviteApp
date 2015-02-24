@@ -83,7 +83,7 @@ a.rsvp:hover {  }
 /***** SECTION: LANDING *****/
 .landing-container { padding:20px; }
 .landing-row { width: 100%; margin: 0 auto 20px; overflow: hidden; float:right; text-align:center; }
-.landing-row #invitation-container { width:30%; background-color: rgba(255,255,255,0.6); position:absolute; margin-left:5%; top:0; min-height:735px; }
+.landing-row #invitation-container { width:30%; background-color: rgba(255,255,255,0.6); position:absolute; margin-right:5%; top:0; min-height:735px; }
 .landing-row #invitation { border-top: 8px solid #656464; border-bottom: 8px solid #656464; margin: 7em auto; padding-top:2em; padding-bottom:2em; text-align: center; width: 70%; }
 .landing-row img {  }
 h1.alt { font-family:'MisoLight', Helvetica, Arial, sans-serif; }
