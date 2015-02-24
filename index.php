@@ -67,7 +67,7 @@
                         <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="javascript:void(0)" id="rsvp">rsvp now</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
-                <img src="images/photos/landing-photo.jpg" class="editable" id="landing-photo" width="1050" height="600"/>
+                <img src="images/photos/landing-photo.jpeg" class="editable" id="landing-photo" width="1050" height="600"/>
             </div><!-- .landing-row -->
         </div><!-- .landing-container -->
     </section>
@@ -117,7 +117,8 @@
                     </div><!-- .fourcol -->
                     <div class="fourcol story last">
                         <h2 style="margin-top:30px;">Sukumar</h2>
-                        <p><span class="dropcap">I </span>knew I am meeting someone special when I met Mary. She was bubbly, helpful, kind & accomadating. I defenitely had butterflies in my stomach the very first day. But just thiking about what future holds and the thougts of bringing it all together just daunted me. It didnt stop me from sending a text message 2 days after I met her. It was just a "Hello", I never got a response to that text message to this day. Later I learnt Mary hated phones and texting. Lots of adventures later with a great friend I knew she was the one for me.</p>
+                        <p><span class="dropcap">I </span>knew I am meeting someone special when I met Mary. She was bubbly, helpful, kind & accomadating. I defenitely had butterflies in my stomach the very first day. But just thinking about what future holds and the thougts of bringing it all together just daunted me. It didnt stop me from sending a text message 2 days after I met her. It was just a "Hello", I never got a response to that text message to this day. Later I learnt Mary hated phones and texting.</p>
+						<p>It took me a while to figure out what and where  </p>
 						<p>Mary is a giver. She has a beautiful mind and I love the way it works. When I am with her I can absolutely tell how her thoughts complements/challenges mine and how well we work together as a team. I know this is so precious and I feel blessed to have found someone I am so comfortable with. Cant wait to make memories with my best friend forever...</p>
                         <p style="font-style:normal;"></p>
                     </div><!-- .fourcol .last -->
