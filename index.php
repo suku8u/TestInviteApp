@@ -10,8 +10,8 @@
     <title>Mary &amp; Sukumar Wedding RSVP Theme</title>
     <!-- Copyright Theme Design by OnePageTheme: http://onepagetheme.com -->
 	<!-- Insert META DATA here: description, keywords, author, etc. -->
-        <meta name="description" content="Insert your description here" />
-        <meta name="keywords" content="Insert, your, keywords, here" />
+        <meta name="description" content="Mary and Sukumar Wedding" />
+        <meta name="keywords" content="MaryandSukumar,MarySukumar,SukumarMary,SukumarandMary" />
         <meta name="robots" content="all" />
         <meta name="author" content="OnePageTheme" />
         <meta name="owner" content="OnePageTheme" />
@@ -56,7 +56,7 @@
 	<section id="top">
     	<div class="landing-container">
         	<div class="landing-row">
-                <div id="invitation-container" class="mobile-hide">
+                <div id="invitation-container" align = "right" class="mobile-hide">
                 	<div id="invitation" class="editable">
                     	<h1 class="mobile-hide"><img src="images/motif.png" class="motif" /></h1>
                         <h1 class="mobile-hide">You are invited</h1>
