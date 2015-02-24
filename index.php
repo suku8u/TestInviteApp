@@ -54,10 +54,10 @@
 <!--[if lt IE 7]><p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p><![endif]-->
 
 	<section id="top">
-    	<div class="landing-container" align = "right">
-        	<div class="landing-row" align = "right">
-                <div id="invitation-container" align = "right" class="mobile-hide">
-                	<div id="invitation" align = "right" class="editable">
+    	<div class="landing-container">
+        	<div class="landing-row">
+                <div id="invitation-container" class="mobile-hide">
+                	<div id="invitation" class="editable" align="right">
                     	<h1 class="mobile-hide"><img src="images/motif.png" class="motif" /></h1>
                         <h1 class="mobile-hide">You are invited</h1>
                         <h1 class="alt mobile-hide">to our weddings</h1>
