@@ -135,10 +135,7 @@
                             <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery1]" title="You can add caption to pictures. You can add caption to pictures... You can add caption to pictures!"><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" title="Feel free to use portrait or landscape photo layout."><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li><a href="images/photos/image3.jpg" rel="photo[gallery1]" title="Press play button to start slideshow or use left/right keyboard arrows to navigate between photos."><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image1.jpg" rel="photo[gallery1]" title="Click expand button on top right corner to view larger image."><img src="images/thumbs/image1.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]"><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]"><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image4.jpg" rel="photo[gallery1]"><img src="images/thumbs/image4.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                            <li class="repeatable"><a href="images/photos/image4.jpg" rel="photo[gallery1]" title="Click expand button on top right corner to view larger image."><img src="images/thumbs/image4.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image5.jpg" rel="photo[gallery1]"><img src="images/thumbs/image5.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image6.jpg" rel="photo[gallery1]"><img src="images/thumbs/image6.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image7.jpg" rel="photo[gallery1]"><img src="images/thumbs/image7.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
@@ -179,9 +176,8 @@
                             <li class="repeatable"><a href="images/photos/image42.jpg" rel="photo[gallery1]"><img src="images/thumbs/image42.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image43.jpg" rel="photo[gallery1]"><img src="images/thumbs/image43.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image44.jpg" rel="photo[gallery1]"><img src="images/thumbs/image44.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-							<li class="repeatable"><a href="images/photos/image45.jpg" rel="photo[gallery1]"><img src="images/thumbs/image45.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-							<li class="repeatable"><a href="images/photos/image46.jpg" rel="photo[gallery1]"><img src="images/thumbs/image46.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-			
+                            <li class="repeatable"><a href="images/photos/image45.jpg" rel="photo[gallery1]"><img src="images/thumbs/image45.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                            <li class="repeatable"><a href="images/photos/image46.jpg" rel="photo[gallery1]"><img src="images/thumbs/image46.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                         </ul>
                    
                     </div><!-- .twelvecol -->
