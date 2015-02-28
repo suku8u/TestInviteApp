@@ -233,7 +233,7 @@
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							</ul>
-							<p><a href="#"Click here></a> http://crystalmountainresort.com/summer/summer-activities/ </p>
+							<li><p><a href="#"Click here></a> http://crystalmountainresort.com/summer/summer-activities/ </p></li>
 						</div><!-- .accParaContainer -->
 						<!-- </div><!-- .sixcol .acc -->
                     <div class="sixcol last">
