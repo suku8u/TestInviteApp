@@ -224,12 +224,12 @@
                         <!--<div class="accParaContainer">	 -->
                             <p><b>Crystal Mountain Resort</b> & Silver Ski Chalet will both offer us a special rate for our guests. There are also a variety of beautiful cabins nearby, some link's are below. Please explore and find best option!</p>
 							<ul class="tips">
-							<li><p>	http://www.crystalhotels.com </p></li>
-							<li><p>	PROMO code: WEDP-S </p></li>
-							<li><p>	Guests can also call our office and reserve over the phone </p></li>
-							<li><p> 360-663-2262 Email inquiries: reservations@crystalhotels.com </p></li>
-							<li><p>	http://www.silverskischalet.com</p></li>
-							<li><p>	PROMO code: coming soon- please check back here! </p></li>
+							<li><p>	http://www.crystalhotels.com
+									PROMO code: WEDP-S 
+									Guests can also call our office and reserve over the phone 
+								 	360-663-2262 Email inquiries: reservations@crystalhotels.com </p></li>
+							<li><p>	http://www.silverskischalet.com
+									PROMO code: coming soon- please check back here! </p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							</ul>
