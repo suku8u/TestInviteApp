@@ -224,8 +224,6 @@
                         <!--<div class="accParaContainer">	 -->
                             <p><b>Crystal Mountain Resort</b> & Silver Ski Chalet will both offer us a special rate for our guests. There are also a variety of beautiful cabins nearby, some link's are below. Please explore and find best option!</p>
 							<ul class="tips">
-							<li><p><a href="url">http://crystalmountainresort.com/summer/summer-planning/lodging-partners-summer/</a></p></li>
-							<li><p><a href="url">http://crystalmountainresort.com/plan-your-trip/planning/vacation-rentals/</a></p></li>
 							<li><p>	http://www.crystalhotels.com </p></li>
 							<li><p>	PROMO code: WEDP-S </p></li>
 							<li><p>	Guests can also call our office and reserve over the phone </p></li>
