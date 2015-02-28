@@ -232,8 +232,8 @@
 									PROMO code: coming soon- please check back here! </p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
-							</ul>
 							<li><p><a href="#"Click here></a> http://crystalmountainresort.com/summer/summer-activities/ </p></li>
+							</ul>
 						</div><!-- .accParaContainer -->
 						<!-- </div><!-- .sixcol .acc -->
                     <div class="sixcol last">
