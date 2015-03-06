@@ -101,7 +101,7 @@
                 <div class="row">
                 	<div class="twelvecol">
                     	<blockquote>
-                        <p>"We met on a misty Sunday afternoon in Seattle."</p>
+                        <p>We met on a misty Sunday afternoon in Seattle...</p>
                         <img src="images/motif.png" />
                         </blockquote>
                     </div><!-- .twelvecol -->
@@ -229,10 +229,10 @@
 									Guests can also call our office and reserve over the phone 
 								 	360-663-2262 Email inquiries: reservations@crystalhotels.com </p></li>
 							<li><p><a href="url">http://www.silverskischalet.com</a>
-									PROMO code: coming soon- please check back here! </p></li>
+									Mention "Mary & Sukumar's Wedding" </p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
-							<li><p><a href="#"Click here></a> http://crystalmountainresort.com/summer/summer-activities/ </p></li>
+							<li><p><a href="url"> http://crystalmountainresort.com/summer/summer-activities/</a></p></li>
 							</ul>
 						</div><!-- .accParaContainer -->
 						<!-- </div><!-- .sixcol .acc -->
