@@ -156,7 +156,6 @@
                             <li class="repeatable"><a href="images/photos/image23.jpg" rel="photo[gallery1]"><img src="images/photos/image23.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image24.jpg" rel="photo[gallery1]"><img src="images/photos/image24.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image25.jpg" rel="photo[gallery1]"><img src="images/photos/image25.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                           <!--> <li class="repeatable"><a href="images/photos/image26.jpg" rel="photo[gallery1]"><img src="images/photos/image26.jpg" width="136" height="136" alt="Add photo title here" /></a></li>-->
                             <li class="repeatable"><a href="images/photos/image27.jpg" rel="photo[gallery1]"><img src="images/photos/image27.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image28.jpg" rel="photo[gallery1]"><img src="images/photos/image28.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image29.jpg" rel="photo[gallery1]"><img src="images/photos/image29.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
