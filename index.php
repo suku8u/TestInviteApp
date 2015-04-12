@@ -78,7 +78,7 @@
                     <nav id="menu" class="editable">
                         <ul id="nav">
                         	<!--<li><a href="#top" class="home" title="Back to top"><img src="images/home.png"/></a></li> -->
-                            <li><a href="#top" class="home" title="Back to top"><img src="images/home.png"/></a><a href="#menu1">Our Story</a></li>
+                            <li><a href="#menu1">Our Story</a></li>
                             <li><a href="#menu2">Photos</a></li>
                             <li><a href="#menu3">The Wedding</a></li>
                             <div id="names-container">
