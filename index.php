@@ -297,14 +297,14 @@
                             	</div><!-- .inputContainer -->
                             	<div class="inputContainer">
                                 	<p>Email</p>
-                                    <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />                                    
+                                    <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />
+                                <br><p>Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
                             	</div><!-- .inputContainer -->
                                 <div class="inputContainer">
                                     <p>Will you be joining us?</p>
                                     <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Will attend</p>
                                     <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">Cannot attend</p>
                                 </div><!-- .inputContainer -->
-                                <br><br><br><p>Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
                            	</div><!-- .sixcol -->
                             
                             <div class="sixcol last">
