@@ -235,7 +235,7 @@
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url"> http://crystalmountainresort.com/summer/summer-activities/</a></p></li>
 							</ul>
-						</div><!-- .accParaContainer -->
+							<!-- </div><!-- .accParaContainer -->
 						<!-- </div><!-- .sixcol .acc -->
                     <div class="sixcol last">
                     <h2>Travel Tips</h2>
@@ -267,7 +267,7 @@
                     <div class="sevencol gifts last">
                         <div class="giftsParaContainer">	
                             <ul class="gft">
-                                <p>Check out <a href="#">https://www.zola.com/registry/maryandsukumar</a>.</p>                
+                                <p>Check out : <a href="#">https://www.zola.com/registry/maryandsukumar</a></p>                
                             </ul>
                         </div><!-- .giftsParaContainer -->
                     </div><!-- .sevencol .last -->
