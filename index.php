@@ -314,7 +314,11 @@
                                     <textarea id="guest-names" name="GuestsNames"></textarea>
                                 </div><!-- .inputContainer -->
                                     <button type="submit" id="submit" class="btn">SUBMIT</button>
-                            </div><!-- .sixcol .last -->    
+                            </div><!-- .sixcol .last -->
+                </div><!-- .row -->
+            </div><!-- .rsvpParaContainer .menu5 -->
+		</div><!-- #menu5 --> 
+	</div>
 </form>
  
 <?php
