@@ -303,8 +303,8 @@
                                     <p>Will you be joining us?</p>
                                     <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Will attend</p>
                                     <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">Cannot attend</p>
-                                    <br><p class="rd-msg">Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
                                 </div><!-- .inputContainer -->
+                                    <p class="rd-msg">Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
                            	</div><!-- .sixcol -->
                             
                             <div class="sixcol last">
