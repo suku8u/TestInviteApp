@@ -77,15 +77,15 @@
             	<div class="twelvecol">
                     <nav id="menu" class="editable">
                         <ul id="nav">
-                        	<li><a href="#top" class="home" title="Back to top"><img src="images/home.png"/></a></li>
-                            <li><a href="#menu1">Our Story</a></li>
+                        	<!--<li><a href="#top" class="home" title="Back to top"><img src="images/home.png"/></a></li> -->
+                            <li><a href="#top" class="home" title="Back to top"><img src="images/home.png"/></a><a href="#menu1">Our Story</a></li>
                             <li><a href="#menu2">Photos</a></li>
                             <li><a href="#menu3">The Wedding</a></li>
                             <div id="names-container">
                             	<span class="name-one">Mary</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">Sukumar</span>
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
-							<!--<li><a href="#menu5">Gifts</a></li> -->
+							<li><a href="#menu5">Gifts</a></li>
                             <li><a href="#menu6">RSVP</a></li>
                         </ul>
                     </nav>
