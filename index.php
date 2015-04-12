@@ -13,9 +13,7 @@
         <meta name="description" content="Mary and Sukumar Wedding" />
         <meta name="keywords" content="MaryandSukumar,MarySukumar,SukumarMary,SukumarandMary" />
         <meta name="robots" content="all" />
-        <meta name="author" content="OnePageTheme" />
-        <meta name="owner" content="OnePageTheme" />
-        <meta name="copyright" content="Copyright &copy; 2014 OnePageTheme" />
+        <meta name="owner" content="Sukumar" />
         <meta name="language" content="en-us" />
         <meta name="revisit-after" content="7" />
         <meta name="rating" content="general" />
@@ -179,8 +177,8 @@
                             <li class="repeatable"><a href="images/photos/image44.jpg" rel="photo[gallery1]"><img src="images/thumbs/image44.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image45.jpg" rel="photo[gallery1]"><img src="images/thumbs/image45.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image46.jpg" rel="photo[gallery1]"><img src="images/thumbs/image46.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-							<a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn">More Pictures (India wedding pics...)</a>
                         </ul>
+						<ul><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn">More Pictures (India wedding pics...)</a></ul>
                    
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
