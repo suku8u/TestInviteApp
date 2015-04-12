@@ -266,10 +266,9 @@
                     <div class="sevencol gifts last">
                         <div class="giftsParaContainer">	
                             <ul class="gft">
-								<p>a</p>
-								<p>a</p>
-								<p>a</p>
-								<p>a</p>
+								<p><a href="#"></a></p>
+								<p><a href="#"></a></p>
+								<p><a href="#"></a></p>
                                 <p><a href="#">https://www.zola.com/registry/maryandsukumar</a></p>               
                             </ul>
                         </div><!-- .giftsParaContainer -->
