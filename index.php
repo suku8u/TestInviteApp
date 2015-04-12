@@ -266,7 +266,7 @@
                     <div class="sevencol gifts last">
                         <div class="giftsParaContainer">	
                             <ul class="gft">
-								<p><a href="images/photos/image41.jpg" rel="photo[gallery1]"><img src="images/giftimage.png" width="100" height="100" alt="Add photo title here" /></a>
+								<p><a href="images/photos/image41.jpg" rel="photo[gallery1]"><img src="images/giftimage.png" width="75" height="75" alt="Add photo title here" /></a>
                                 <br><a href="#">https://www.zola.com/registry/maryandsukumar</a></p>               
                             </ul>
                         </div><!-- .giftsParaContainer -->
