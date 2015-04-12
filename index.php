@@ -268,9 +268,9 @@
                             <ul class="gft">
 								<p> </p>
 								<p> </p>
-                                <p><a href="#">https://www.zola.com/registry/maryandsukumar</a></p> 
 								<p> </p>
-								<p> </p>               
+								<p> </p>
+                                <p><a href="#">https://www.zola.com/registry/maryandsukumar</a></p>               
                             </ul>
                         </div><!-- .giftsParaContainer -->
                     </div><!-- .sevencol .last -->
