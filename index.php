@@ -135,12 +135,12 @@
                         <!--    <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" title="Feel free to use portrait or landscape photo layout."><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
                             <li><a href="images/photos/image3.jpg" rel="photo[gallery1]" title="Press play button to start slideshow or use left/right keyboard arrows to navigate between photos."><img src="images/thumbs/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image4.jpg" rel="photo[gallery1]" title="Click expand button on top right corner to view larger image."><img src="images/thumbs/image4.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                        <!-->    <li class="repeatable"><a href="images/photos/image5.jpg" rel="photo[gallery1]"><img src="images/thumbs/image5.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
+                        <!--    <li class="repeatable"><a href="images/photos/image5.jpg" rel="photo[gallery1]"><img src="images/thumbs/image5.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
                             <li class="repeatable"><a href="images/photos/image6.jpg" rel="photo[gallery1]"><img src="images/thumbs/image6.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image7.jpg" rel="photo[gallery1]"><img src="images/thumbs/image7.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image8.jpg" rel="photo[gallery1]"><img src="images/thumbs/image8.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image9.jpg" rel="photo[gallery1]"><img src="images/thumbs/image9.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                          <!-->  <li class="repeatable"><a href="images/photos/image10.jpg" rel="photo[gallery1]"><img src="images/thumbs/image10.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
+                          <!--  <li class="repeatable"><a href="images/photos/image10.jpg" rel="photo[gallery1]"><img src="images/thumbs/image10.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
                             <li class="repeatable"><a href="images/photos/image11.jpg" rel="photo[gallery1]"><img src="images/thumbs/image11.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image12.jpg" rel="photo[gallery1]"><img src="images/thumbs/image12.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image13.jpg" rel="photo[gallery1]"><img src="images/thumbs/image13.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
@@ -179,8 +179,6 @@
                             <li class="repeatable"><a href="images/photos/image46.jpg" rel="photo[gallery1]"><img src="images/thumbs/image46.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/thumbs/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                         </ul>
-						<ul><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn">More Pictures (India wedding pics...)</a></ul>
-                   
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
             </div><!-- .anchorContainer .menu2 -->
@@ -197,7 +195,8 @@
 							at Parsons Court Hotel, Dindigul, Tamil Nadu, India.<br/> 
                             <b>85 Mengals Road, Nagal Nagar, Dindigul - 624003</b>
                         </p>
-						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a></p>
+						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a> 
+						<br><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn">India Wedding Album</a></p>
                         <p>Our American wedding celebration will be held on <br/> 
 							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
 							at the Crystal Mountain Resort in Enumclaw, WA.<br/> 
