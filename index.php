@@ -224,10 +224,10 @@
                         <div class="accParaContainer">
                             <p><b>Crystal Mountain Resort</b> & Silver Ski Chalet will both offer us a special rate for our guests. There are also a variety of beautiful cabins nearby, some link's are below. Please explore and find best option!</p>
 							<ul class="tips">
-							<li><p>	<a href="url">http://www.crystalhotels.com</a> </p>
-									<p>PROMO code: "WEDP-S". </p>
-									<p>Guests can also call our office and reserve over the phone </p>
-								 	<p>360-663-2262 Email inquiries: reservations@crystalhotels.com </p></li>
+							<li><p>	<a href="url">http://www.crystalhotels.com</a>
+									<br>PROMO code: "WEDP-S".
+									<br>Call and reserve over the phone : 360-663-2262
+								 	<br>Email inquiries: reservations@crystalhotels.com </p></li>
 							<li><p><a href="url">http://www.silverskischalet.com</a>
 									Mention "Mary & Sukumar's Wedding" </p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
