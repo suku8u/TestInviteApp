@@ -6,7 +6,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=ms" />
     <title>Mary &amp; Sukumar Wedding RSVP Theme</title>
     <!-- Copyright Theme Design by OnePageTheme: http://onepagetheme.com -->
 	<!-- Insert META DATA here: description, keywords, author, etc. -->
@@ -87,6 +87,7 @@
                             	<span class="name-one">Mary</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">Sukumar</span>
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
+							<li><a href="#menu5">Gifts</a></li>
                             <li><a href="#menu6">RSVP</a></li>
                         </ul>
                     </nav>
@@ -178,6 +179,7 @@
                             <li class="repeatable"><a href="images/photos/image44.jpg" rel="photo[gallery1]"><img src="images/thumbs/image44.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image45.jpg" rel="photo[gallery1]"><img src="images/thumbs/image45.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image46.jpg" rel="photo[gallery1]"><img src="images/thumbs/image46.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+							<a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn">More Pictures (India wedding pics...)</a>
                         </ul>
                    
                     </div><!-- .twelvecol -->
@@ -253,6 +255,26 @@
                 </div><!-- .row -->
             </div><!-- .anchorContainer .menu4 -->
         </div><!-- #menu4 -->
+		
+        <div id="menu5">
+         	<div class="anchorContainer menu5 editable" id="content-five">
+                <div class="row">
+                    <div class="fivecol">
+                    	<h2>Gifts</h2>
+                        	<p>Gift giving is completely optional. If you so wish, feel free to pick something from our registry, create something homemade or choose something else you think we love or useful. </p>				
+                            <p>We have also selected a few charities. Feel free to donate to them in lieu of the gift.</p>
+						
+                    </div><!-- .fivecol .acc -->
+                    <div class="sevencol gifts last">
+                        <div class="giftsParaContainer">	
+                            <ul class="gft">
+                                <li><p>We are registered at <a href="#">https://www.zola.com/registry/maryandsukumar</a>.</p></li>                  
+                            </ul>
+                        </div><!-- .giftsParaContainer -->
+                    </div><!-- .sevencol .last -->
+                </div><!-- .row -->
+            </div><!-- .anchorContainer .menu5 -->
+        </div><!-- #menu5 -->
         
         
         <div id="menu6">
@@ -262,7 +284,7 @@
                     	<div class="rsvpParaContainer">
                     	<h2>RSVP</h2>
                         <p>Please RSVP before May 1st 2015.<br/>
-                           For any question please email: <a href="mailto:youremailhere@emailadd.com">maryandsukumar@gmail.com</a>
+                           For any question please email: <a href="maryandsukumar@gmail.com">maryandsukumar@gmail.com</a>
                         </p>
 
 <form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" >
