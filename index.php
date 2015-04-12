@@ -229,7 +229,7 @@
 									<br>Call and reserve over the phone : 360-663-2262
 								 	<br>Email inquiries: reservations@crystalhotels.com </p></li>
 							<li><p><a href="url">http://www.silverskischalet.com</a>
-									Mention "Mary & Sukumar's Wedding" </p></li>
+									<br>Mention "Mary & Sukumar's Wedding" </p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url"> http://crystalmountainresort.com/summer/summer-activities/</a></p></li>
@@ -266,7 +266,11 @@
                     <div class="sevencol gifts last">
                         <div class="giftsParaContainer">	
                             <ul class="gft">
-                                <p>Check out : <a href="#">https://www.zola.com/registry/maryandsukumar</a></p>                
+								<p> </p>
+								<p> </p>
+                                <p><a href="#">https://www.zola.com/registry/maryandsukumar</a></p> 
+								<p> </p>
+								<p> </p>               
                             </ul>
                         </div><!-- .giftsParaContainer -->
                     </div><!-- .sevencol .last -->
