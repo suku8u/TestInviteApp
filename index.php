@@ -298,7 +298,10 @@
                             	<div class="inputContainer">
                                 	<p>Email</p>
                                     <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />
-                                <br><p>Message: <input type="text" id="message" name="Message" placeholder="(optional)" /></p>
+                                <div class="inputContainer">
+								</div><!-- .inputContainer -->
+								<p>Message</p> 
+									<input type="text" id="message" name="Message" placeholder="(optional)" /></p>
                             	</div><!-- .inputContainer -->
                                 <div class="inputContainer">
                                     <p>Will you be joining us?</p>
