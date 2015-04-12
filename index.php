@@ -85,7 +85,7 @@
                             	<span class="name-one">Mary</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">Sukumar</span>
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
-							<li><a href="#menu5">Gifts</a></li>
+							<!--<li><a href="#menu5">Gifts</a></li> -->
                             <li><a href="#menu6">RSVP</a></li>
                         </ul>
                     </nav>
@@ -164,6 +164,8 @@
                             <li class="repeatable"><a href="images/photos/image32.jpg" rel="photo[gallery1]"><img src="images/photos/image32.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image33.jpg" rel="photo[gallery1]"><img src="images/photos/image33.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image34.jpg" rel="photo[gallery1]"><img src="images/photos/image34.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                            <li class="repeatable"><a href="images/photos/image47.jpg" rel="photo[gallery1]"><img src="images/photos/image47.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                            <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image35.jpg" rel="photo[gallery1]"><img src="images/photos/image35.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image36.jpg" rel="photo[gallery1]"><img src="images/photos/image36.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image37.jpg" rel="photo[gallery1]"><img src="images/photos/image37.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
