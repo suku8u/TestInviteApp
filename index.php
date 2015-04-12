@@ -260,14 +260,14 @@
                 <div class="row">
                     <div class="fivecol">
                     	<h2>Gifts</h2>
-                        	<p>Gift giving is completely optional. If you so wish, feel free to pick something from our registry, create something homemade or choose something else you think we love or useful. </p>				
-                            <p>We have also selected a few charities. Feel free to donate to them in lieu of the gift.</p>
+                        	<p>Gift giving is completely optional. If you so wish, feel free to pick something from our registry, create something homemade, or choose something else you think we might enjoy. </p>				
+                            <p>We have also selected a few charities, they are listed on our registry. Feel free to make a donation in lieu of a gift.</p>
 						
                     </div><!-- .fivecol .acc -->
                     <div class="sevencol gifts last">
                         <div class="giftsParaContainer">	
                             <ul class="gft">
-                                <li><p>We are registered at <a href="#">https://www.zola.com/registry/maryandsukumar</a>.</p></li>                  
+                                <p>Check out <a href="#">https://www.zola.com/registry/maryandsukumar</a>.</p>                
                             </ul>
                         </div><!-- .giftsParaContainer -->
                     </div><!-- .sevencol .last -->
