@@ -65,7 +65,7 @@
                         <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="javascript:void(0)" id="rsvp">rsvp now</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
-                <img src="images/photos/landing-photo.jpeg" class="editable" id="landing-photo" height="1400" width="700"/>
+                <img src="images/photos/landing-photo.jpeg" class="editable" id="landing-photo" height="1600" width="1200"/>
             </div><!-- .landing-row -->
         </div><!-- .landing-container -->
 	</section>
