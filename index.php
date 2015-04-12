@@ -165,7 +165,6 @@
                             <li class="repeatable"><a href="images/photos/image33.jpg" rel="photo[gallery1]"><img src="images/photos/image33.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image34.jpg" rel="photo[gallery1]"><img src="images/photos/image34.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image47.jpg" rel="photo[gallery1]"><img src="images/photos/image47.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image35.jpg" rel="photo[gallery1]"><img src="images/photos/image35.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image36.jpg" rel="photo[gallery1]"><img src="images/photos/image36.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image37.jpg" rel="photo[gallery1]"><img src="images/photos/image37.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
@@ -181,6 +180,7 @@
                             <li class="repeatable"><a href="images/photos/image26.jpg" rel="photo[gallery1]" ><img src="images/photos/image26.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/photos/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]" ><img src="images/photos/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                            <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                         </ul>
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
