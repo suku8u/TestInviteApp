@@ -217,12 +217,11 @@
                    
             
         <div id="menu4">
-         	<!--><div class="anchorContainer menu4 editable" id="content-four"> -->
-				<div id="content-four">
+         	<div class="anchorContainer menu4 editable" id="content-four">
                 <div class="row">
                     <div class="sixcol acc">
                     	<h2>Accommodations</h2>
-                        <!--<div class="accParaContainer">	 -->
+                        <div class="accParaContainer">
                             <p><b>Crystal Mountain Resort</b> & Silver Ski Chalet will both offer us a special rate for our guests. There are also a variety of beautiful cabins nearby, some link's are below. Please explore and find best option!</p>
 							<ul class="tips">
 							<li><p>	<a href="url">http://www.crystalhotels.com</a>
@@ -236,7 +235,7 @@
 							<li><p><a href="url"> http://crystalmountainresort.com/summer/summer-activities/</a></p></li>
 							</ul>
 						</div><!-- .accParaContainer -->
-						<!-- </div><!-- .sixcol .acc -->
+						</div><!-- .sixcol .acc -->
                     <div class="sixcol last">
                     <h2>Travel Tips</h2>
                         <ul class="tips">
