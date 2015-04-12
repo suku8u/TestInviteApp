@@ -217,7 +217,8 @@
                    
             
         <div id="menu4">
-         	<div class="anchorContainer menu4 editable" id="content-four">
+         	<!--><div class="anchorContainer menu4 editable" id="content-four"> -->
+				<div id="content-four">
                 <div class="row">
                     <div class="sixcol acc">
                     	<h2>Accommodations</h2>
