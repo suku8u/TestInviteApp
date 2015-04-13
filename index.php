@@ -181,7 +181,7 @@
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/photos/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]" ><img src="images/photos/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-						<li class="repeatable"><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" border="0" target="_blank">more...</a></li>
+							<li class="repeatable"><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" border="0" target="_blank"><h6>more...</h6></a></li>
                         </ul>
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
