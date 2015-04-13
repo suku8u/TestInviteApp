@@ -181,6 +181,7 @@
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/photos/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]" ><img src="images/photos/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+							<li class="repeatable">a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><h5>...</h5></a></li>
                         </ul>
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
@@ -199,7 +200,7 @@
                             <b>85 Mengals Road, Nagal Nagar, Dindigul - 624003</b>
                         </p>
 						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a> 
-						<br><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><h6>India Wedding Album</h6></a></p>
+						<br><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><h5>India Wedding Album</h5></a></p>
                         <p>Our American wedding celebration will be held on <br/> 
 							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
 							at the Crystal Mountain Resort in Enumclaw, WA.<br/> 
