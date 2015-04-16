@@ -11,7 +11,7 @@
     <!-- Copyright Theme Design by OnePageTheme: http://onepagetheme.com -->
 	<!-- Insert META DATA here: description, keywords, author, etc. -->
         <meta name="description" content="Mary and Sukumar Wedding" />
-        <meta name="keywords" content="MaryandSukumar,MarySukumar,SukumarMary,SukumarandMary" />
+        <meta name="keywords" content="MaryandSukumar,MarySukumar,SukumarMary,SukumarandMary,Mary and Sukumar, Mary & Sukumar" />
         <meta name="robots" content="all" />
         <meta name="owner" content="Sukumar" />
         <meta name="language" content="en-us" />
