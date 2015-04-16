@@ -271,7 +271,7 @@
                         <div class="giftsParaContainer">	
                             <ul class="gft">
 								<p><a href="https://www.zola.com/registry/maryandsukumar" target="_blank"><img src="images/giftimage.png" width="75" height="75" alt="Add photo title here" /></a>
-                                <br><a href="https://www.zola.com/registry/maryandsukumar target=_blank">https://www.zola.com/registry/maryandsukumar</a></p>               
+                                <br><a href="https://www.zola.com/registry/maryandsukumar" target="_blank">https://www.zola.com/registry/maryandsukumar</a></p>               
                             </ul>
                         </div><!-- .giftsParaContainer -->
                     </div><!-- .sevencol .last -->
