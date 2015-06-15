@@ -212,8 +212,8 @@
                     <div class="fivecol last">
                         <h2>Crystal Mountain Resort Reception</h2>
                         <p>A reception, dinner and dancing will immediately follow in the
-                        	Chinook Room at Crystal Mountain Resort
-							http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort
+                        	Chinook Room at Crystal Mountain Resort <a href="http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort">
+							http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort</a>
                         </p>
                     </div><!-- .fivecol .last -->
 			            </div><!-- .anchorContainer .menu4 -->
@@ -228,15 +228,15 @@
                         <div class="accParaContainer">
                             <p><b>Crystal Mountain Resort</b> & Silver Ski Chalet will both offer us a special rate for our guests. There are also a variety of beautiful cabins nearby, some link's are below. Please explore and find best option!</p>
 							<ul class="tips">
-							<li><p>	<a href="url">http://www.crystalhotels.com</a>
+							<li><p>	<a href="http://www.crystalhotels.com">http://www.crystalhotels.com</a>
 									<br>PROMO code: "WEDP-S".
 									<br>Call and reserve over the phone : 360-663-2262
 								 	<br>Email inquiries: reservations@crystalhotels.com </p></li>
-							<li><p><a href="url">http://www.silverskischalet.com</a>
+							<li><p><a href="http://www.silverskischalet.com">http://www.silverskischalet.com</a>
 									<br>Mention "Mary & Sukumar's Wedding" </p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
-							<li><p><a href="url"> http://crystalmountainresort.com/summer/summer-activities/</a></p></li>
+							<li><p><a href="http://crystalmountainresort.com/summer/summer-activities/"> http://crystalmountainresort.com/summer/summer-activities/</a></p></li>
 							</ul>
 						</div><!-- .accParaContainer -->
 						</div><!-- .sixcol .acc -->
@@ -247,11 +247,11 @@
                             <li><p>Even though it's the summer time on Sept. 5th, remember that it's a mountain, so pack some layers!</p></li>
 							<li><p>Crystal Mountain Resort is about 60 miles from SeaTac Airport. Email us about carpooling options and we'll connect you with friends. We are also planning to arrange several airport shuttles so please let us know if you're interested.</p></li>
 							<li><p>Other optional weekend activities will include a gentile hike on Mt. Rainier on Sunday and farewell brunch on Monday morning.</p></li>
-                            <li><p><a href="url">http://www.mtrainierguestservices.com/activities-and-events/summer-activities</a></p></li>
-							<li><p><a href="url">http://www.phrecklefacephotographyblog.com/summer-lovin-bucket-list-for-the-pacific-northwest-fun-things-to-do-with-kids-during-the-summer</a></p></li>
-							<li><p><a href="url">http://travel.nationalgeographic.com/travel/city-guides/free-seattle-traveler</a></p></li>
-							<li><p><a href="url">http://redtri.com/seattle/75-things-to-do-with-the-family-in-seattle-this-summer/</a></p></li>
-							<li><p><a href="url">http://www.thriftynorthwestmom.com/frugal-summer-fun-in-the-northwest-2013/</a></p></li>
+                            <li><p><a href="http://www.mtrainierguestservices.com/activities-and-events/summer-activities">http://www.mtrainierguestservices.com/activities-and-events/summer-activities</a></p></li>
+							<li><p><a href="http://www.phrecklefacephotographyblog.com/summer-lovin-bucket-list-for-the-pacific-northwest-fun-things-to-do-with-kids-during-the-summer">http://www.phrecklefacephotographyblog.com/summer-lovin-bucket-list-for-the-pacific-northwest-fun-things-to-do-with-kids-during-the-summer</a></p></li>
+							<li><p><a href="http://travel.nationalgeographic.com/travel/city-guides/free-seattle-traveler">http://travel.nationalgeographic.com/travel/city-guides/free-seattle-traveler</a></p></li>
+							<li><p><a href="http://redtri.com/seattle/75-things-to-do-with-the-family-in-seattle-this-summer/">http://redtri.com/seattle/75-things-to-do-with-the-family-in-seattle-this-summer/</a></p></li>
+							<li><p><a href="http://www.thriftynorthwestmom.com/frugal-summer-fun-in-the-northwest-2013/">http://www.thriftynorthwestmom.com/frugal-summer-fun-in-the-northwest-2013/</a></p></li>
                         </ul>
                     </div><!-- .sixcol .last -->
                 </div><!-- .row -->
