@@ -234,8 +234,8 @@
 								 	<br>Email inquiries: reservations@crystalhotels.com </p></li>
 							<li><p><a href="http://www.silverskischalet.com">http://www.silverskischalet.com</a>
 									<br>Mention "Mary & Sukumar's Wedding" </p></li>
-							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
-							<li><p><a href="url">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
+							<li><p><a href="http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
+							<li><p><a href="http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater">http://www.vrbo.com/vacation-rentals/usa/washington/wa-southwest/mt-rainier/greenwater</a></p></li>
 							<li><p><a href="http://crystalmountainresort.com/summer/summer-activities/"> http://crystalmountainresort.com/summer/summer-activities/</a></p></li>
 							</ul>
 						</div><!-- .accParaContainer -->
