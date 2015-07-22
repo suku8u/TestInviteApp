@@ -57,10 +57,10 @@
                 <div id="invitation-container" class="mobile-hide">
                 	<div id="invitation" class="editable">
                     	<h1 class="mobile-hide"><img src="images/motif.png" class="motif" /></h1>
-                        <h1 class="mobile-hide">Thanks You ! </h1>
-                        <h1 class="mobile-hide">for joining us on </h1>
+                        <h1 class="mobile-hide">Thank You ! </h1>
+                        <h1 class="mobile-hide">for planning to join us on</h1>
                         <h1 class="mobile-hide">5th Sept 2015</h1>
-                        <h1 class="mobile-hide">Help us prepare your Dinner </h1>
+                        <h1 class="alt-mobile-hide">Help us prepare your Dinner </h1>
                         <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu3">Choose Menu now</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
