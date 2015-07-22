@@ -61,8 +61,8 @@
                         <h1 class="alt mobile-hide">to our weddings</h1>
 						<h1 class="alt mobile-hide">4th March 2015</h1>
                         <h1 class="alt mobile-hide">5th Sept 2015</h1>
-                        <h1 class="mobile-hide">please join us!</h1>
-                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="javascript:void(0)" id="rsvp">rsvp now</a></h1>
+                        <h1 class="mobile-hide">Please help us with Dinner Options</h1>
+                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="javascript:void(0)" id="rsvp">Choose Menu now</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
                 <img src="images/photos/landing-photo.png" class="editable" id="landing-photo" width="100%"/>
