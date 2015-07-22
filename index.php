@@ -57,12 +57,12 @@
                 <div id="invitation-container" class="mobile-hide">
                 	<div id="invitation" class="editable">
                     	<h1 class="mobile-hide"><img src="images/motif.png" class="motif" /></h1>
-                        <h1 class="mobile-hide">You are invited</h1>
-                        <h1 class="alt mobile-hide">to our weddings</h1>
-						<h1 class="alt mobile-hide">4th March 2015</h1>
+                        <h1 class="mobile-hide">Thanks for joining us</h1>
+                        <h1 class="alt mobile-hide">for our wedding on </h1>
+						<!--><h1 class="alt mobile-hide">4th March 2015</h1> -->
                         <h1 class="alt mobile-hide">5th Sept 2015</h1>
                         <h1 class="mobile-hide">Please help us with Dinner Options</h1>
-                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="javascript:void(0)" id="rsvp">Choose Menu now</a></h1>
+                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu3" id="rsvp">Choose Menu now</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
                 <img src="images/photos/landing-photo.png" class="editable" id="landing-photo" width="100%"/>
@@ -149,7 +149,7 @@
                             <li class="repeatable"><a href="images/photos/image16.jpg" rel="photo[gallery1]"><img src="images/photos/image16.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image17.jpg" rel="photo[gallery1]"><img src="images/photos/image17.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image18.jpg" rel="photo[gallery1]"><img src="images/photos/image18.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image19.jpg" rel="photo[gallery1]"><img src="images/photos/image19.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                          <!-->  <li class="repeatable"><a href="images/photos/image19.jpg" rel="photo[gallery1]"><img src="images/photos/image19.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image20.jpg" rel="photo[gallery1]"><img src="images/photos/image20.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image21.jpg" rel="photo[gallery1]"><img src="images/photos/image21.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image22.jpg" rel="photo[gallery1]"><img src="images/photos/image22.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
@@ -180,7 +180,7 @@
                             <li class="repeatable"><a href="images/photos/image26.jpg" rel="photo[gallery1]" ><img src="images/photos/image26.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/photos/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]" ><img src="images/photos/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                            <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
 							<li><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><img src="images/photos/more.png" width="35" height="35" alt="India wedding pics" /></a></li>
                         </ul>
                     </div><!-- .twelvecol -->
@@ -216,7 +216,10 @@
 							http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort</a>
                         </p>
                     </div><!-- .fivecol .last -->
-			            </div><!-- .anchorContainer .menu4 -->
+					<div>
+						<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+					</div>
+			        </div><!-- .anchorContainer .menu4 -->
 			        </div><!-- #menu4 -->
                    
             
