@@ -59,7 +59,6 @@
                     	<h1 class="mobile-hide"><img src="images/motif.png" class="motif" /></h1>
                         <h1 class="mobile-hide">Thanks for joining us</h1>
                         <h1 class="alt mobile-hide">for our wedding on </h1>
-						<!--><h1 class="alt mobile-hide">4th March 2015</h1> -->
                         <h1 class="alt mobile-hide">5th Sept 2015</h1>
                         <h1 class="mobile-hide">Please help us with Dinner Options</h1>
                         <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu3" id="rsvp">Choose Menu now</a></h1>
