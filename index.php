@@ -148,7 +148,7 @@
                             <li class="repeatable"><a href="images/photos/image16.jpg" rel="photo[gallery1]"><img src="images/photos/image16.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image17.jpg" rel="photo[gallery1]"><img src="images/photos/image17.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image18.jpg" rel="photo[gallery1]"><img src="images/photos/image18.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                          <!-->  <li class="repeatable"><a href="images/photos/image19.jpg" rel="photo[gallery1]"><img src="images/photos/image19.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                          <!-- <li class="repeatable"><a href="images/photos/image19.jpg" rel="photo[gallery1]"><img src="images/photos/image19.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image20.jpg" rel="photo[gallery1]"><img src="images/photos/image20.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image21.jpg" rel="photo[gallery1]"><img src="images/photos/image21.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image22.jpg" rel="photo[gallery1]"><img src="images/photos/image22.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
@@ -180,7 +180,7 @@
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/photos/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]" ><img src="images/photos/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
-							<li><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><img src="images/photos/more.png" width="35" height="35" alt="India wedding pics" /></a></li>
+							<li><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><img src="images/photos/more.png" width="136" height="136" alt="India wedding pics" /></a></li>
                         </ul>
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
@@ -190,6 +190,8 @@
             
         <div id="menu3">
         	<div class="anchorContainer menu3 editable" id="content-three">
+				<div> <!-- Google forms-->
+					<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
                 <div class="row">
                     <div class="fivecol">
                         <h2>Ceremonies</h2>
@@ -215,9 +217,8 @@
 							http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort</a>
                         </p>
                     </div><!-- .fivecol .last -->
-					<div>
-						<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-					</div>
+
+					</div> <!-- Google Forms-->
 			        </div><!-- .anchorContainer .menu4 -->
 			        </div><!-- #menu4 -->
                    
