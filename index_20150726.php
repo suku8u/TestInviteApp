@@ -61,7 +61,7 @@
                         <h1 class="alt mobile-hide">for planning to join us on</h1>
                         <h1 class="mobile-hide">5th Sept 2015</h1>
                         <h1 class="alt mobile-hide">Help us prepare your Dinner </h1>
-                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu6">Choose Entrée</a></h1>
+                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu3">Choose Entrée</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
                 <img src="images/photos/landing-photo.png" class="editable" id="landing-photo" width="100%"/>
@@ -191,8 +191,8 @@
         <div id="menu3">
         	<div class="anchorContainer menu3 editable" id="content-three">
 				<div> <!-- Google forms -->
-				<!--	<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
-					-->
+					<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
+					
 					
 					
 					
@@ -290,15 +290,99 @@
         <div id="menu6">
          	<div class="anchorContainer menu6 editable" id="content-six">
                 <div class="row">
+                	<div class="twelvecol rsvp">
                     	<div class="rsvpParaContainer">
+                    	<h2>RSVP</h2>
+                        <p>Please RSVP before June 1st 2015.<br/>
+                           For any question please email: <a href="maryandsukumar@gmail.com">maryandsukumar@gmail.com</a>
+                        </p>
 
-<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
+<form id="rsvpForm" method="post" action="?action=add" enctype="multipart/form-data" >
+                        	<div class="sixcol">
+                            	<div class="inputContainer">
+                                    <p>Your Name</p>
+                                    <input type="text" id="name" name="Name" class='validate[required]' />
+                            	</div><!-- .inputContainer -->
+                            	<div class="inputContainer">
+                                	<p>Email</p>
+                                    <input type="text" id="email" name="Email" class='validate[required,custom[email]]' />
+                                <div class="inputContainer">
+								</div><!-- .inputContainer -->
+								<p>Message</p> 
+									<input type="text" id="message" name="Message" placeholder="(optional)" /></p>
+                            	</div><!-- .inputContainer -->
+                                <div class="inputContainer">
+                                    <p>Will you be joining us?</p>
+                                    <input type="radio" name="Answer" value="YES" id="yes" class='validate[required]' /><p class="rd">Will attend</p>
+                                    <input type="radio" name="Answer" value="NO" id="no" class='validate[required]' /><p class="rd">Cannot attend</p>
+                                </div><!-- .inputContainer -->
+                           	</div><!-- .sixcol -->
+                            
+                            <div class="sixcol last">
+                            	<div class="inputContainer">
+                                    <p># of guest(s) attending</p>
+                                    <input type="text" id="guests" name="GuestsNumber" style="width:100px;" />
+                                </div><!-- .inputContainer -->
+                            	<div class="inputContainer">
+                                    <p>Full name of guest(s)</p>
+                                    <textarea id="guest-names" name="GuestsNames"></textarea>
+                                </div><!-- .inputContainer -->
+                                    <button type="submit" id="submit" class="btn">SUBMIT</button>
+                            </div><!-- .sixcol .last -->
                 </div><!-- .row -->
             </div><!-- .rsvpParaContainer .menu5 -->
 		</div><!-- #menu5 --> 
 	</div>
 </form>
  
+<?php
+/* Connect to SQL Azure */
+$server = "tcp:wbqa55dhmb.database.windows.net,1433"; 
+$user = "suku@wbqa55dhmb";
+$pass = "Stoked88!";
+$database = "testinvapp";
+ 
+$connectionoptions = array("Database" => $database, 
+                           "UID" => $user, 
+                           "PWD" => $pass);
+ 
+$conn = sqlsrv_connect($server, $connectionoptions);
+if($conn === false)
+{
+    die(print_r(sqlsrv_errors(), true));
+}
+ 
+if(isset($_GET['action']))
+{
+    if($_GET['action'] == 'add')
+    {
+        /*Insert data.*/
+        $insertSql = "INSERT INTO RSVP (Name, Email, Answer, Message, GuestsNumber,GuestsNames,CreatedDate) VALUES (?,?,?,?,?,?,?)";
+        $params = array(&$_POST['Name'], 
+                        &$_POST['Email'],
+						&$_POST['Answer'],
+						&$_POST['Message'],
+						&$_POST['GuestsNumber'],
+						&$_POST['GuestsNames'], 
+                        date("Y-m-d"));
+        $stmt = sqlsrv_query($conn, $insertSql, $params);
+        if($stmt === false)
+        {
+            /*Handle the case of a duplicte e-mail address.*/
+            $errors = sqlsrv_errors();
+            if($errors[0]['code'] == 2601)
+            {
+                echo "The e-mail address you entered has already been used.<br />";
+            }/*Die if other errors occurred.*/
+            else
+            {
+                die(print_r($errors, true));
+            }
+        }
+    }
+}
+ 
+?>
 
                         
                     	</div><!-- .rsvpParaContainer --> 
