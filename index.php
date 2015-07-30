@@ -85,7 +85,7 @@
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
 							<li><a href="#menu5">Gifts</a></li>
-                            <li><a href="#menu6">RSVP</a></li>
+                            <li><a href="#menu6">Choose Entrée</a></li>
                         </ul>
                     </nav>
             	</div><!-- .twelvecol -->
