@@ -190,76 +190,9 @@
             
         <div id="menu3">
         	<div class="anchorContainer menu3 editable" id="content-three">
-				<div> <!-- Google forms
-					<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> -->
+				<div> <!-- Google forms -->
+					<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
 					
-					
-					<form action="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
-					<div class="ss-form-question errorbox-good" role="listitem">
-					<div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
-					<label class="ss-q-item-label" for="entry_1461931135"><div class="ss-q-title">First Name
-					</div>
-					<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-					<input type="text" name="entry.1461931135" value="" class="ss-q-short" id="entry_1461931135" dir="auto" aria-label="First Name  " title="">
-					<div class="error-message" id="1339295888_errorMessage"></div>
-					<div class="required-message">This is a required question</div>
-					</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-					<div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
-					<label class="ss-q-item-label" for="entry_2103408328"><div class="ss-q-title">Last Name
-					</div>
-					<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-					<input type="text" name="entry.2103408328" value="" class="ss-q-short" id="entry_2103408328" dir="auto" aria-label="Last Name  " title="">
-					<div class="error-message" id="203839628_errorMessage"></div>
-					<div class="required-message">This is a required question</div>
-					</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-					<div dir="auto" class="ss-item  ss-text"><div class="ss-form-entry">
-					<label class="ss-q-item-label" for="entry_1604066195"><div class="ss-q-title">Email
-					</div>
-					<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-					<input type="email" name="entry.1604066195" value="" class="ss-q-short" id="entry_1604066195" dir="auto" aria-label="Email  Please enter a valid email" title="Please enter a valid email">
-					<div class="error-message" id="1093697335_errorMessage">Please enter a valid email</div>
-					<div class="required-message">This is a required question</div>
-					</div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-					<div dir="auto" class="ss-item ss-item-required ss-radio"><div class="ss-form-entry">
-					<label class="ss-q-item-label" for="entry_982583538"><div class="ss-q-title">What would you like for Dinner ?
-					<label for="itemView.getDomIdToLabel()" aria-label="(Required field)"></label>
-					<span class="ss-required-asterisk" aria-hidden="true">*</span></div>
-					<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-
-					<ul class="ss-choices" role="radiogroup" aria-label="What would you like for Dinner ?  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1632768568" value="Herb Roaster Chicken - Roasted Chicken with special blend of Herbs and Spices, cut into quarters" id="group_1632768568_1" role="radio" class="ss-q-radio" aria-label="Herb Roaster Chicken - Roasted Chicken with special blend of Herbs and Spices, cut into quarters" required="" aria-required="true"></span>
-					<span class="ss-choice-label">Herb Roaster Chicken - Roasted Chicken with special blend of Herbs and Spices, cut into quarters</span>
-					</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1632768568" value="Pacific Northwest Salmon - Seared and topped with a citrus buerre blanc" id="group_1632768568_2" role="radio" class="ss-q-radio" aria-label="Pacific Northwest Salmon - Seared and topped with a citrus buerre blanc" required="" aria-required="true"></span>
-					<span class="ss-choice-label">Pacific Northwest Salmon - Seared and topped with a citrus buerre blanc</span>
-					</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1632768568" value="Pasta Primavera - Linguine tossed with roasted seasonal vegetables with a light creamy parmesan sauce" id="group_1632768568_3" role="radio" class="ss-q-radio" aria-label="Pasta Primavera - Linguine tossed with roasted seasonal vegetables with a light creamy parmesan sauce" required="" aria-required="true"></span>
-					<span class="ss-choice-label">Pasta Primavera - Linguine tossed with roasted seasonal vegetables with a light creamy parmesan sauce</span>
-					</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.1632768568" value="Kids Plate - Available for 10 years and younger" id="group_1632768568_4" role="radio" class="ss-q-radio" aria-label="Kids Plate - Available for 10 years and younger" required="" aria-required="true"></span>
-					<span class="ss-choice-label">Kids Plate - Available for 10 years and younger</span>
-					</label></li></ul>
-					<div class="error-message" id="982583538_errorMessage"></div>
-					<div class="required-message">This is a required question</div></div></div></div> <div class="ss-form-question errorbox-good" role="listitem">
-					<div dir="auto" class="ss-item  ss-radio"><div class="ss-form-entry">
-					<label class="ss-q-item-label" for="entry_125307203"><div class="ss-q-title">Will you join us for a hike on Sunday ?
-					</div>
-					<div class="ss-q-help ss-secondary-text" dir="auto"></div></label>
-
-					<ul class="ss-choices" role="radiogroup" aria-label="Will you join us for a hike on Sunday ?  "><li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.565880055" value="Yes, Count me in !" id="group_565880055_1" role="radio" class="ss-q-radio" aria-label="Yes, Count me in !"></span>
-					<span class="ss-choice-label">Yes, Count me in !</span>
-					</label></li> <li class="ss-choice-item"><label><span class="ss-choice-item-control goog-inline-block"><input type="radio" name="entry.565880055" value="No, I can&#39;t make it" id="group_565880055_2" role="radio" class="ss-q-radio" aria-label="No, I can&#39;t make it"></span>
-					<span class="ss-choice-label">No, I can&#39;t make it</span>
-					</label></li></ul>
-					<div class="error-message" id="125307203_errorMessage"></div>
-					<div class="required-message">This is a required question</div></div></div></div>
-					<input type="hidden" name="draftResponse" value="[,,&quot;-1715874828669098803&quot;]
-					">
-					<input type="hidden" name="pageHistory" value="0">
-
-
-					<input type="hidden" name="fbzx" value="-1715874828669098803">
-
-					<div class="ss-item ss-navigate"><table id="navigation-table"><tbody><tr><td class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">
-					<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
-					</td>
-					</tr></tbody></table></div></ol></form>
 					
 					
 					
