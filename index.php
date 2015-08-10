@@ -209,7 +209,7 @@
                         <p>Our American wedding celebration will be held on <br/> 
 							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
 							at the Crystal Mountain Resort in Enumclaw, WA.<br/> 
-                            <b>33914 Crystal Mountain Blvd. Enumclaw, WA 98022</b>
+                            <b>33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022</b>
                         </p>
 						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>
                     </div><!-- .fivecol -->
