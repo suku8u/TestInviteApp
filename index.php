@@ -60,8 +60,8 @@
                         <h1 class="alt mobile-hide">Thank You ! </h1>
                         <h1 class="alt mobile-hide">for planning to join us on</h1>
                         <h1 class="mobile-hide">5th Sept 2015</h1>
-                        <h1 class="alt mobile-hide">Help us prepare your Dinner </h1>
-                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu6">Choose Entrée</a></h1>
+                        <h1 class="alt mobile-hide">We are super excited ! </h1>
+                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu6">Direction</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
                 <img src="images/photos/landing-photo.png" class="editable" id="landing-photo" width="100%"/>
@@ -199,6 +199,12 @@
                 <div class="row">
                     <div class="fivecol">
                         <h2>Ceremonies</h2>
+                        <p>Our American wedding celebration will be held on <br/> 
+							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
+							at the Crystal Mountain Resort in Enumclaw, WA.<br/> 
+                            <b>33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022</b>
+                        </p>
+						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>
                         <p>Our Indian wedding celebration will be held on <br/> 
 							<b>Wednesday, March 4, 2015</b> at <b>9:00 a.m.</b> <br/>
 							at Parsons Court Hotel, Dindigul, Tamil Nadu, India.<br/> 
@@ -206,12 +212,7 @@
                         </p>
 						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a> 
 						<br><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><h4>India Wedding Album</h4></a></p>
-                        <p>Our American wedding celebration will be held on <br/> 
-							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
-							at the Crystal Mountain Resort in Enumclaw, WA.<br/> 
-                            <b>33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022</b>
-                        </p>
-						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>
+
                     </div><!-- .fivecol -->
                     <div class="twocol"><p>&nbsp;</p></div><!-- .twocol (this is empty placeholder column) -->
                     <div class="fivecol last">
@@ -292,7 +293,7 @@
                 <div class="row">
                     	<div class="rsvpParaContainer">
 
-<iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="1050" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe> 
+<!-- <iframe src="https://docs.google.com/forms/d/1ClrKfzU6LrBCUMBfFjyABK8Nvd1LM9J4qq0V5skzm44/viewform?embedded=true" width="100%" height="1050" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>  -->
                 </div><!-- .row -->
             </div><!-- .rsvpParaContainer .menu5 -->
 		</div><!-- #menu5 --> 
