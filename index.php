@@ -85,7 +85,7 @@
                             </div><!-- #names-container -->
                             <li><a href="#menu4">Accommodations</a></li>
 							<li><a href="#menu5">Gifts</a></li>
-                            <li><a href="#menu6">Entrée</a></li>
+                            <li><a href="#menu3">Directions</a></li>
                         </ul>
                     </nav>
             	</div><!-- .twelvecol -->
@@ -180,7 +180,7 @@
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/photos/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]" ><img src="images/photos/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
-							<li><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><img src="images/photos/more.png" width="136" height="136" alt="India wedding pics" /></a></li>
+							<li><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><img src="images/photos/more.png" width="136" height="133" alt="India wedding pics" /></a></li>
                         </ul>
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
