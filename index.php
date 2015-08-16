@@ -201,7 +201,7 @@
                         <h2>Ceremonies</h2>
                         <p>Our American wedding celebration will be held on <br/> 
 							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
-							(plan to arrive between 3:00 PM and 3:30 PM to ride gondola to wedding platform)</br>
+							Guests should plan to <b>arrive</b> between <b>3:00 PM</b> and <b>3:30 PM</b> to ride the gondola up to the wedding platform.</br>
 							at the Crystal Mountain Resort in Enumclaw, WA.<br/> 
                             <b>33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022</b>
                         </p>
