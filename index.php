@@ -221,7 +221,7 @@
                     <div class="twocol"><p>&nbsp;</p></div><!-- .twocol (this is empty placeholder column) -->
                     <div class="fivecol last">
                         <h2>Reception</h2>
-						<h2>Crystal Mountain Resort </h2>
+						<h4>Crystal Mountain Resort </h4>
                         <p>A reception, dinner and dancing will immediately follow in the
                         	Chinook Room at Crystal Mountain Resort <a href="http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort">
 							http://www.experiencewa.com/wa/hotels-motels-resorts/crystal-mountain-resort</a>
