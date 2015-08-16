@@ -211,7 +211,7 @@
                             <b>85 Mengals Road, Nagal Nagar, Dindigul - 624003</b>
                         </p>
 						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a> 
-						<br><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><h4>India Wedding Album</h4></a></p>
+						<br><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank">India Wedding Photos</a></p>
 
                     </div><!-- .fivecol -->
                     <div class="twocol"><p>&nbsp;</p></div><!-- .twocol (this is empty placeholder column) -->
