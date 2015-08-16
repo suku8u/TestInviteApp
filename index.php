@@ -206,7 +206,9 @@
 							<br/>
                             <b>33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022</b>
                         </p>
-						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>
+						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>	
+					</br>
+					</br>
                         <p>Our Indian wedding celebration was held on <br/> 
 							<b>Wednesday, March 4, 2015</b> at <b>9:00 a.m.</b> <br/>
 							Dindigul, Tamil Nadu, India.<br/> 
