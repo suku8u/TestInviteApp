@@ -61,7 +61,7 @@
                         <h1 class="alt mobile-hide">for planning to join us on</h1>
                         <h1 class="mobile-hide">5th Sept 2015</h1>
                         <h1 class="alt mobile-hide">We are super excited ! </h1>
-                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu6">Direction</a></h1>
+                        <h1 class="alt" style="margin-top:10px; margin-bottom:20px;"><a href="#menu3">Directions</a></h1>
                     </div><!-- #invitation -->
                 </div><!-- #invitation-container -->
                 <img src="images/photos/landing-photo.png" class="editable" id="landing-photo" width="100%"/>
