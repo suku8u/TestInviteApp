@@ -180,7 +180,7 @@
                             <li class="repeatable"><a href="images/photos/image2.jpg" rel="photo[gallery1]" ><img src="images/photos/image2.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image3.jpg" rel="photo[gallery1]" ><img src="images/photos/image3.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image48.jpg" rel="photo[gallery1]"><img src="images/photos/image48.jpg" width="136" height="136" alt="Add photo title here" /></a></li> -->
-							<li><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><img src="images/photos/more.png" width="136" height="133" alt="India wedding pics" /></a></li>
+							<li><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank"><img src="images/photos/more.png" width="136" height="130" alt="India wedding pics" /></a></li>
                         </ul>
                     </div><!-- .twelvecol -->
                 </div><!-- .row -->
@@ -198,7 +198,7 @@
 					
                 <div class="row">
                     <div class="fivecol">
-                        <h2>Ceremonies</h2>
+                        <h2>Ceremony</h2>
                         <p>Our American wedding celebration will be held on <br/> 
 							<b>Saturday, Sept 5, 2015</b> at <b>4:00 p.m.</b> <br/>
 							<br/>
