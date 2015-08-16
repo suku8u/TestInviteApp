@@ -207,12 +207,12 @@
                             <b>33914 Crystal Mountain Blvd. Crystal Mountain, WA 98022</b>
                         </p>
 						<p><a href="https://www.google.com/maps/place/Crystal+Mountain+Resort/@46.935499,-121.474993,17z/data=!4m6!1m3!3m2!1s0x5490b6130c900017:0xa58f254ab1ea64b8!2sCrystal+Mountain+Resort!3m1!1s0x5490b6130c900017:0xa58f254ab1ea64b8?hl=en-US" target="_blank" class="map">Google Maps</a></p>
-                        <p>Our Indian wedding celebration will be held on <br/> 
+                        <p>Our Indian wedding celebration was held on <br/> 
 							<b>Wednesday, March 4, 2015</b> at <b>9:00 a.m.</b> <br/>
-							at Parsons Court Hotel, Dindigul, Tamil Nadu, India.<br/> 
-                            <b>85 Mengals Road, Nagal Nagar, Dindigul - 624003</b>
+							Dindigul, Tamil Nadu, India.<br/> 
+                           <!-- <b>85 Mengals Road, Nagal Nagar, Dindigul - 624003</b> 
                         </p>
-						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a> 
+						<p><a href="https://www.google.com/maps/place/Parsons+Court,+85/@10.358143,77.981996,17z/data=!4m6!1m3!3m2!1s0x3b00aa508f3e82ef:0xc0857451925132a0!2sParsons+Court,+85!3m1!1s0x3b00aa508f3e82ef:0xc0857451925132a0" target="_blank" class="map">Google Maps</a> -->
 						<br><a href="https://www.icloud.com/photostream/#A8Grq0zwGDMItn" target="_blank">India Wedding Photos</a></p>
 
                     </div><!-- .fivecol -->
