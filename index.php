@@ -83,9 +83,9 @@
                             <div id="names-container">
                             	<span class="name-one">Mary</span><img src="images/logo.jpg" id="Logo" /><span class="name-two">Sukumar</span>
                             </div><!-- #names-container -->
-                            <li><a href="#menu4">Accommodations</a></li>
-							<li><a href="#menu5">Gifts</a></li>
-                            <li><a href="#menu3">Directions</a></li>
+                            <li><a href="#menu4">Accommodation</a></li>
+							<li><a href="#menu5">Gift</a></li>
+                            <li><a href="#menu3">Direction</a></li>
                         </ul>
                     </nav>
             	</div><!-- .twelvecol -->
