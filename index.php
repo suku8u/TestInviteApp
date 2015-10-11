@@ -148,8 +148,8 @@
                             <li class="repeatable"><a href="images/photos/image16.jpg" rel="photo[gallery1]"><img src="images/photos/image16.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image17.jpg" rel="photo[gallery1]"><img src="images/photos/image17.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image18.jpg" rel="photo[gallery1]"><img src="images/photos/image18.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                          <!-- <li class="repeatable"><a href="images/photos/image19.jpg" rel="photo[gallery1]"><img src="images/photos/image19.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
-                            <li class="repeatable"><a href="images/photos/image20.jpg" rel="photo[gallery1]"><img src="images/photos/image20.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                            <li class="repeatable"><a href="images/photos/image19.jpg" rel="photo[gallery1]"><img src="images/photos/image19.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
+                           <!-- <li class="repeatable"><a href="images/photos/image20.jpg" rel="photo[gallery1]"><img src="images/photos/image20.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image21.jpg" rel="photo[gallery1]"><img src="images/photos/image21.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image22.jpg" rel="photo[gallery1]"><img src="images/photos/image22.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
                             <li class="repeatable"><a href="images/photos/image23.jpg" rel="photo[gallery1]"><img src="images/photos/image23.jpg" width="136" height="136" alt="Add photo title here" /></a></li>
